@@ -1,0 +1,3271 @@
+======================================================================
+TRACKER VALIDATION RESULTS (STRICT MODE)
+======================================================================
+Total Checked: 1757
+Alive (Valid): 287
+Dead: 1295
+Invalid (Parked/Expired/Not Trackers): 175
+======================================================================
+
+
+######################################################################
+# ALIVE TRACKERS (287 total)
+######################################################################
+
+--- HTTP (116) ---
+http://tracker.renfei.net:8080/announce
+http://nyaa.tracker.wf:7777/announce
+http://open.touki.ru/announce
+http://tr.nyacat.pw/announce
+http://torrent-team.net/announce
+http://ehtracker.org/1/announce
+http://tracker.mywaifu.best:6969/announce
+http://opentracker.acgnx.se/announce
+http://www.all4nothin.net/announce
+http://data-bg.net/announce
+http://bt.okmp3.ru:2710/announce
+http://lucke.fenesisu.moe:6969/announce
+http://tracker.renfei.net:8080/announce
+http://tracker.bt4g.com:2095/announce
+http://tracker.qu.ax:6969/announce
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+http://tr.highstar.shop:80/announce
+http://tracker.dhitechnical.com:6969/announce
+http://ipv4.rer.lol:2710/announce
+http://open.acgtracker.com:1096/announce
+http://117.72.34.150:6969/announce
+http://1337.abcvg.info:80/announce
+http://207.241.226.111:6969/announce
+http://atrack.pow7.com/announce
+http://atrack.pow7.com:80/announce
+http://bvarf.tracker.sh:2086/announce
+http://ch3oh.ru:6969/announce
+http://extracker.dahrkael.net:6969/announce
+http://pow7.com:80/announce
+http://secure.pow7.com/announce
+http://seeders-paradise.org:80/announce
+http://t1.pow7.com/announce
+http://t2.pow7.com/announce
+http://t.nyaatracker.com:80/announce
+http://tr.nyacat.pw:80/announce
+http://tracker.bt-hash.com:80/announce
+http://t.overflow.biz:6969/announce
+http://tracker.darkness.services:6969/announce
+http://tracker.dler.org:6969/announce
+http://tracker.ghostchu-services.top:80/announce
+http://tracker.tvunderground.org.ru:3218/announce
+http://tracker.tritan.gg:8080/announce
+http://tracker.waaa.moe:6969/announce
+http://tracker.zhuqiy.com:80/announce
+http://tracker2.dler.org:80/announce
+http://tracker1.itzmx.com:8080/announce
+http://tracker810.xyz:11450/announce
+http://wepzone.net:6969/announce
+http://207.241.231.226:6969/announce
+http://nyaa.tracker.wf:7777/announce
+http://tracker.dler.com:6969/announce
+http://open.touki.ru:80/announce
+http://torrent-team.net:80/announce
+http://tracker.anirena.com:80/announce
+http://torrents.artixlinux.org:6969/announce
+http://www.all4nothin.net:80/announce
+http://tracker.renfei.net:8080/announce
+http://tr.nyacat.pw/announce
+http://nyaa.tracker.wf:7777/announce
+http://torrent-team.net/announce
+http://open.touki.ru/announce
+http://www.all4nothin.net/announce
+http://ehtracker.org/1/announce
+http://opentracker.acgnx.se/announce
+http://data-bg.net/announce
+http://tracker.mywaifu.best:6969/announce
+http://bt.okmp3.ru:2710/announce
+http://lucke.fenesisu.moe:6969/announce
+http://tracker.renfei.net:8080/announce
+http://tracker.bt4g.com:2095/announce
+http://tracker.qu.ax:6969/announce
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+http://tr.highstar.shop:80/announce
+http://tracker.dhitechnical.com:6969/announce
+http://ipv4.rer.lol:2710/announce
+http://117.72.34.150:6969/announce
+http://open.acgtracker.com:1096/announce
+http://1337.abcvg.info:80/announce
+http://207.241.226.111:6969/announce
+http://bt1.xxxxbt.cc:6969/announce
+http://atrack.pow7.com/announce
+http://atrack.pow7.com:80/announce
+http://ch3oh.ru:6969/announce
+http://bvarf.tracker.sh:2086/announce
+http://extracker.dahrkael.net:6969/announce
+http://home.yxgz.club:6969/announce
+http://pow7.com:80/announce
+http://secure.pow7.com/announce
+http://servandroidkino.ru:80/announce
+http://shubt.net:2710/announce
+http://t2.pow7.com/announce
+http://t1.pow7.com/announce
+http://tr.nyacat.pw:80/announce
+http://t.nyaatracker.com:80/announce
+http://t.overflow.biz:6969/announce
+http://tr.kxmp.cf:80/announce
+http://tracker.darkness.services:6969/announce
+http://tracker.dler.org:6969/announce
+http://tracker.ghostchu-services.top:80/announce
+http://tracker.moxing.party:6969/announce
+http://tracker.sbsub.com:2710/announce
+http://tracker.tvunderground.org.ru:3218/announce
+http://tracker.tritan.gg:8080/announce
+http://tracker.waaa.moe:6969/announce
+http://tracker.zhuqiy.com:80/announce
+http://tracker2.dler.org:80/announce
+http://tracker1.itzmx.com:8080/announce
+http://207.241.231.226:6969/announce
+http://nyaa.tracker.wf:7777/announce
+http://tracker.dler.com:6969/announce
+http://concen.org:6969/announce
+http://open.touki.ru:80/announce
+http://torrent-team.net:80/announce
+http://torrents.artixlinux.org:6969/announce
+http://tracker.anirena.com:80/announce
+http://www.all4nothin.net:80/announce
+
+--- HTTPS (37) ---
+https://tracker.uraniumhexafluori.de/announce
+https://tracker.zhuqiy.com/announce
+https://tr.nyacat.pw:443/announce
+https://tracker.uraniumhexafluori.de:443/announce
+https://t.213891.xyz:443/announce
+https://tracker.moeblog.cn:443/announce
+https://shahidrazi.online:443/announce
+https://tracker.ghostchu-services.top:443/announce
+https://tracker.pmman.tech:443/announce
+https://tracker.zhuqiy.com:443/announce
+https://torrent.tracker.durukanbal.com:443/announce
+https://1337.abcvg.info:443/announce
+https://tr.highstar.shop:443/announce
+https://tr.zukizuki.org:443/announce
+https://tracker.bt4g.com:443/announce
+https://tracker.gcrenwp.top:443/announce
+https://tracker.iochimari.moe:443/announce
+https://cny.fan:443/announce
+https://torrent-team.net:443/announce
+https://tracker.uraniumhexafluori.de/announce
+https://tracker.zhuqiy.com/announce
+https://tr.nyacat.pw:443/announce
+https://t.213891.xyz:443/announce
+https://tracker.uraniumhexafluori.de:443/announce
+https://tracker.moeblog.cn:443/announce
+https://shahidrazi.online:443/announce
+https://tracker.pmman.tech:443/announce
+https://tracker.ghostchu-services.top:443/announce
+https://tracker.zhuqiy.com:443/announce
+https://torrent.tracker.durukanbal.com:443/announce
+https://1337.abcvg.info:443/announce
+https://tr.highstar.shop:443/announce
+https://tr.zukizuki.org:443/announce
+https://tracker.bt4g.com:443/announce
+https://tracker1.520.jp:443/announce
+https://tracker.iochimari.moe:443/announce
+https://torrent-team.net:443/announce
+
+--- UDP (134) ---
+udp://node01.torrentonline.cc:42069/announce
+udp://node02.torrentonline.cc:42069/announce
+udp://node01.trackerstatus.live:42069/announce
+udp://tracker.opentrackr.org:1337/announce
+udp://node01.edge-team.cc:42069/announce
+udp://node01.torrentonline.cc:42069/announce
+udp://kingof.torrentonline.cc:42069/announce
+udp://tracker.fnix.net:6969/announce
+udp://tracker.qu.ax:6969/announce
+udp://tracker.t-1.org:6969/announce
+udp://tracker.ducks.party:1984/announce
+udp://martin-gebhardt.eu:25/announce
+udp://tracker.torrent.eu.org:451/announce
+udp://extracker.dahrkael.net:6969/announce
+udp://evan.im:6969/announce
+udp://tracker.tvunderground.org.ru:3218/announce
+udp://open.stealth.si:80/announce
+udp://tracker.flatuslifir.is:6969/announce
+udp://bandito.byterunner.io:6969/announce
+udp://tracker.1h.is:1337/announce
+udp://tracker.playground.ru:6969/announce
+udp://tracker.bittor.pw:1337/announce
+udp://wepzone.net:6969/announce
+udp://open.demonii.com:1337/announce
+udp://tracker.srv00.com:6969/announce
+udp://tracker.tryhackx.org:6969/announce
+udp://exodus.desync.com:6969/announce
+udp://tracker1.t-1.org:6969/announce
+udp://tracker3.t-1.org:6969/announce
+udp://www.torrent.eu.org:451/announce
+udp://open-tracker.demonoid.ch:6969/announce
+udp://open.demonoid.ch:6969/announce
+udp://public.demonoid.ch:6969/announce
+udp://tracker.gmi.gd:6969/announce
+udp://tracker1.myporn.club:9337/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
+udp://retracker.lanta.me:2710/announce
+udp://tracker-de-2.cutie.dating:1337/announce
+udp://tracker.plx.im:6969/announce
+udp://tracker.dler.com:6969/announce
+udp://tr4ck3r.duckdns.org:6969/announce
+udp://tracker.bittor.pw:1337/announce
+udp://tracker.1h.is:1337/announce
+udp://open.stealth.si:80/announce
+udp://bandito.byterunner.io:6969/announce
+udp://tracker.flatuslifir.is:6969/announce
+udp://extracker.dahrkael.net:6969/announce
+udp://tracker.fnix.net:6969/announce
+udp://tracker.t-1.org:6969/announce
+udp://tracker.tvunderground.org.ru:3218/announce
+udp://tracker.torrent.eu.org:451/announce
+udp://tracker.qu.ax:6969/announce
+udp://tracker.ducks.party:1984/announce
+udp://martin-gebhardt.eu:25/announce
+udp://tracker.playground.ru:6969/announce
+udp://evan.im:6969/announce
+udp://wepzone.net:6969/announce
+udp://tracker.srv00.com:6969/announce
+udp://open.demonii.com:1337/announce
+udp://tracker.uw0.xyz:6969/announce
+udp://tracker1.t-1.org:6969/announce
+udp://tracker3.t-1.org:6969/announce
+udp://tracker.tryhackx.org:6969/announce
+udp://exodus.desync.com:6969/announce
+udp://www.torrent.eu.org:451/announce
+udp://open-tracker.demonoid.ch:6969/announce
+udp://open.demonoid.ch:6969/announce
+udp://public.demonoid.ch:6969/announce
+udp://tracker.gmi.gd:6969/announce
+udp://tracker1.myporn.club:9337/announce
+udp://retracker.lanta.me:2710/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
+udp://tracker.dler.com:6969/announce
+udp://tracker-de-2.cutie.dating:1337/announce
+udp://tracker.plx.im:6969/announce
+udp://tr4ck3r.duckdns.org:6969/announce
+udp://43.154.112.29:17272/announce
+udp://51.15.41.46:6969/announce
+udp://51.81.222.188:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://admin.52ywp.com:6969/announce
+udp://explodie.org:6969/announce
+udp://ipv4announce.sktorrent.eu:6969/announce
+udp://open.dstud.io:6969/announce
+udp://private.anonseed.com:6969/announce
+udp://t.overflow.biz:6969/announce
+udp://torrents.artixlinux.org:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
+udp://tracker.cloudbase.store:1333/announce
+udp://tracker.dler.org:6969/announce
+udp://tracker.iperson.xyz:6969/announce
+udp://tracker.startwork.cv:1337/announce
+udp://tracker.theoks.net:6969/announce
+udp://tracker.therarbg.to:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
+udp://tracker.zupix.online:6969/announce
+udp://v2.iperson.xyz:6969/announce
+udp://52.58.128.163:6969/announce
+udp://ipv4.rer.lol:2710/announce
+udp://pirate.t-1.org:1337/announce
+udp://tr3.ysagin.top:2715/announce
+udp://tracker.breizh.pm:6969/announce
+udp://tracker.zupix.online:1333/announce
+udp://43.154.112.29:17272/announce
+udp://51.15.41.46:6969/announce
+udp://51.81.222.188:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://admin.52ywp.com:6969/announce
+udp://explodie.org:6969/announce
+udp://ipv4announce.sktorrent.eu:6969/announce
+udp://open.dstud.io:6969/announce
+udp://opentracker.io:6969/announce
+udp://private.anonseed.com:6969/announce
+udp://t.overflow.biz:6969/announce
+udp://torrents.artixlinux.org:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
+udp://tracker.cloudbase.store:1333/announce
+udp://tracker.dler.org:6969/announce
+udp://tracker.filemail.com:6969/announce
+udp://tracker.iperson.xyz:6969/announce
+udp://tracker.startwork.cv:1337/announce
+udp://tracker.theoks.net:6969/announce
+udp://tracker.therarbg.to:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
+udp://tracker.zupix.online:6969/announce
+udp://v2.iperson.xyz:6969/announce
+udp://zer0day.ch:1337/announce
+udp://ipv4.rer.lol:2710/announce
+udp://pirate.t-1.org:1337/announce
+udp://tr3.ysagin.top:2715/announce
+udp://tracker.breizh.pm:6969/announce
+udp://tracker.zupix.online:1333/announce
+udp://tracker.opentrackr.org:1337/announce
+udp://151.242.30.86:42069/announce
+
+
+######################################################################
+# DEAD TRACKERS (1295 total)
+######################################################################
+
+--- HTTP (514) ---
+http://167.235.245.209/announce
+  └─ Reason: HTTP error 404
+http://51.68.122.172/announce
+  └─ Reason: HTTP error 404
+http://81.169.145.151/announce
+  └─ Reason: HTTP error 404
+http://185.148.3.231/announce
+  └─ Reason: HTTP error 404
+http://baibako.tv/announce
+  └─ Reason: HTTP error 404
+http://carbon-bonsai-621.appspot.com/announce
+  └─ Reason: HTTP error 404
+http://npupt.com/announce
+  └─ Reason: error: Remote end closed connection without response
+http://bluebird-hd.org/announce
+  └─ Reason: HTTP error 404
+http://play.aimisayo.com:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://p2p.0g.cx:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://t-backup.213891.xyz:80/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+http://tk.greedland.net:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.gbitt.info:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://retracker.mgts.by:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.electro-torrent.pl:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://ipv6.rer.lol:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.beeimg.com:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://echostar.ddnsfree.com:8080/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tamas3.ynh.fr:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://tracker.internetwarriors.net:1337/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://taciturn-shadow.spb.ru:6969/announce
+  └─ Reason: connection failed: timed out
+http://wegkxfcivgx.ydns.eu:80/announce
+  └─ Reason: connection failed: timed out
+http://157.7.202.64:8080/announce
+  └─ Reason: HTTP error 404
+http://tracker.edkj.club:6969/announce
+  └─ Reason: connection failed: timed out
+http://share.camoe.cn:8080/announce
+  └─ Reason: connection failed: timed out
+http://tracker3.ctix.cn:8080/announce
+  └─ Reason: timeout
+http://tracker.files.fm:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.opentrackr.org:1337/announce
+  └─ Reason: connection failed: timed out
+http://104.28.1.30:8080/announce
+  └─ Reason: connection failed: timed out
+http://104.28.16.69/announce
+  └─ Reason: connection failed: timed out
+http://107.150.14.110:6969/announce
+  └─ Reason: connection failed: timed out
+http://109.121.134.121:1337/announce
+  └─ Reason: connection failed: timed out
+http://0d.kebhana.mx:443/announce
+  └─ Reason: timeout
+http://114.55.113.60:6969/announce
+  └─ Reason: connection failed: timed out
+http://125.227.35.196:6969/announce
+  └─ Reason: connection failed: timed out
+http://128.199.70.66:5944/announce
+  └─ Reason: connection failed: timed out
+http://0123456789nonexistent.com:80/announce
+  └─ Reason: timeout
+http://158.69.146.212:7777/announce
+  └─ Reason: connection failed: timed out
+http://173.254.204.71:1096/announce
+  └─ Reason: connection failed: timed out
+http://178.175.143.27/announce
+  └─ Reason: connection failed: timed out
+http://178.33.73.26:2710/announce
+  └─ Reason: connection failed: timed out
+http://182.176.139.129:6969/announce
+  └─ Reason: connection failed: timed out
+http://185.5.97.139:8089/announce
+  └─ Reason: connection failed: timed out
+http://188.165.253.109:1337/announce
+  └─ Reason: connection failed: timed out
+http://194.106.216.222/announce
+  └─ Reason: connection failed: timed out
+http://195.123.209.37:1337/announce
+  └─ Reason: connection failed: timed out
+http://210.244.71.25:6969/announce
+  └─ Reason: connection failed: timed out
+http://210.244.71.26:6969/announce
+  └─ Reason: connection failed: timed out
+http://213.159.215.198:6970/announce
+  └─ Reason: connection failed: timed out
+http://213.163.67.56:1337/announce
+  └─ Reason: connection failed: timed out
+http://37.19.5.139:6969/announce
+  └─ Reason: connection failed: timed out
+http://91.217.91.21:3218/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://bt.endpot.com:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://bt.henbt.com:2710/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://bt.pusacg.org:8080/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://bt.rer.lol:2710/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://bt1.letpo.com:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://bt2.careland.com.cn:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://37.19.5.155:6881/announce
+  └─ Reason: connection failed: timed out
+http://93.92.64.5/announce
+  └─ Reason: HTTP error 503
+http://91.218.230.81:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://46.4.109.148:6969/announce
+  └─ Reason: connection failed: timed out
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://incine.ru:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://5.79.83.193:2710/announce
+  └─ Reason: connection failed: timed out
+http://5.79.249.77:6969/announce
+  └─ Reason: connection failed: timed out
+http://open.acgnxtracker.com:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://open.lolicon.eu:7777/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://51.254.244.161:6969/announce
+  └─ Reason: connection failed: timed out
+http://59.36.96.77:6969/announce
+  └─ Reason: connection failed: timed out
+http://74.82.52.209:6969/announce
+  └─ Reason: connection failed: timed out
+http://80.246.243.18:6969/announce
+  └─ Reason: connection failed: timed out
+http://81.200.2.231/announce
+  └─ Reason: connection failed: timed out
+http://retracker.krs-ix.ru/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://retracker.krs-ix.ru:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://85.17.19.180/announce
+  └─ Reason: connection failed: timed out
+http://87.248.186.252:8080/announce
+  └─ Reason: connection failed: timed out
+http://87.253.152.137/announce
+  └─ Reason: connection failed: timed out
+http://retracker.gorcomnet.ru/announce
+  └─ Reason: HTTP error 404
+http://91.216.110.47/announce
+  └─ Reason: connection failed: timed out
+http://parag.rs:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://thetracker.org:80/announce
+  └─ Reason: HTTP 200 but invalid tracker response
+http://torrent.gresille.org/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://buny.uk:6969/announce
+  └─ Reason: timeout
+http://torrentsmd.com:8080/announce
+  └─ Reason: HTTP error 403
+http://explodie.org:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.baravik.org:6970/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://bt1.xxxxbt.cc:6969/announce
+  └─ Reason: timeout
+http://tracker.bittorrent.am/announce
+  └─ Reason: HTTP 200 but invalid tracker response
+http://home.yxgz.club:6969/announce
+  └─ Reason: timeout
+http://tracker.calculate.ru:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.cutie.dating:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://montreal.nyap2p.com:8080/announce
+  └─ Reason: timeout
+http://open.trackerlist.xyz:80/announce
+  └─ Reason: timeout
+http://tracker.dutchtracking.com/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.dutchtracking.com:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.dutchtracking.nl/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.dutchtracking.nl:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.edoardocolombo.eu:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.ex.ua/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.ex.ua:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.filetracker.pl:8089/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://bt.poletracker.org:2710/announce
+  └─ Reason: timeout
+http://retracker.spark-rostov.ru:80/announce
+  └─ Reason: connection failed: timed out
+http://tracker.ipv6tracker.ru:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.kicks-ass.net/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.kicks-ass.net:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://servandroidkino.ru:80/announce
+  └─ Reason: connection failed: timed out
+http://t.acg.rip:6699/announce
+  └─ Reason: connection failed: timed out
+http://tracker.lelux.fi:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.flashtorrents.org:6969/announce
+  └─ Reason: connection failed: [Errno 11002] getaddrinfo failed
+http://shubt.net:2710/announce
+  └─ Reason: timeout
+http://tracker.aletorrenty.pl:2710/announce
+  └─ Reason: connection failed: timed out
+http://tracker.bz:80/announce
+  └─ Reason: timeout
+http://tracker.tfile.me/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.tiny-vps.com:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.bittor.pw:1337/announce
+  └─ Reason: timeout
+http://tracker.corpscorp.online:80/announce
+  └─ Reason: connection failed: timed out
+http://tracker.grepler.com:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.ipv6tracker.org:80/announce
+  └─ Reason: connection failed: timed out
+http://tracker.dmcomic.org:2710/announce
+  └─ Reason: timeout
+http://tracker1.wasabii.com.tw:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://torrent.hificode.in:6969/announce
+  └─ Reason: timeout
+http://tracker2.itzmx.com:6961/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker2.wasabii.com.tw:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://v6-tracker.0g.cx:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://vps-dd0a0715.vps.ovh.net:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker1.bt.moack.co.kr:80/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+http://web.open-tracker.cf:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.lintk.me:2710/announce
+  └─ Reason: timeout
+http://tracker.moxing.party:6969/announce
+  └─ Reason: timeout
+http://tracker.sbsub.com:2710/announce
+  └─ Reason: timeout
+http://tracker.skyts.net:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.xiaoduola.xyz:6969/announce
+  └─ Reason: timeout
+http://tracker.vanitycore.co:6969/announce
+  └─ Reason: timeout
+http://vps02.net.orel.ru:80/announce
+  └─ Reason: connection failed: timed out
+http://tracker.kuroy.me:5944/announce
+  └─ Reason: connection failed: timed out
+http://www.peckservers.com:9000/announce
+  └─ Reason: connection failed: timed out
+http://tracker.city9x.com:2710/announce
+  └─ Reason: connection failed: timed out
+http://www.torrentsnipe.info:2701/announce
+  └─ Reason: timeout
+http://tr.kxmp.cf:80/announce
+  └─ Reason: connection failed: timed out
+http://www.genesis-sp.org:2710/announce
+  └─ Reason: timeout
+http://retracker.hotplug.ru:2710/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
+  └─ Reason: connection failed: [WinError 10051] Tentativo di operazione del socke
+http://tracker.yoshi210.com:6969/announce
+  └─ Reason: connection failed: timed out
+http://ns3109441.mypdns.org:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://p4p.arenabg.com:1337/announce
+  └─ Reason: connection failed: timed out
+http://acxx.de:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://benouworldtrip.fr:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://aegir.sexy:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://canardscitrons.nohost.me:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.netmap.top:6969/announce
+  └─ Reason: connection failed: timed out
+http://astrr.ru:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://boysbitte.be:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://bt.3kb.xyz:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://47.ip-51-68-199.eu:6969/announce
+  └─ Reason: connection failed: timed out
+http://61626c.net:6969/announce
+  └─ Reason: connection failed: timed out
+http://aarsen.me:6969/announce
+  └─ Reason: connection failed: timed out
+http://camera.lei001.com:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://divanlogia.ru:80/announce
+  └─ Reason: HTTP error 404
+http://dostafka-obedi.ru:80/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+http://dpiui.reedlan.com:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://bedro.cloud:6969/announce
+  └─ Reason: connection failed: timed out
+http://bioquantum.co.za:6969/announce
+  └─ Reason: connection failed: timed out
+http://ellman.ru:80/announce
+  └─ Reason: HTTP error 425
+http://black-bird.ynh.fr:6969/announce
+  └─ Reason: connection failed: timed out
+http://git.vulnix.sh:6969/announce
+  └─ Reason: connection failed: [WinError 10049] Indirizzo richiesto non valido ne
+http://blokas.io:6969/announce
+  └─ Reason: connection failed: timed out
+http://dht.dhtclub.com:666/announce
+  └─ Reason: connection failed: timed out
+http://drogal.ru:80/announce
+  └─ Reason: HTTP error 404
+http://tinfoil.space:6969/announce
+  └─ Reason: connection failed: timed out
+http://bms-hosxp.com:6969/announce
+  └─ Reason: connection failed: timed out
+http://kornident.ru:80/announce
+  └─ Reason: HTTP error 404
+http://keycargo.ru:80/announce
+  └─ Reason: HTTP error 404
+http://kupefurnitur.ru:80/announce
+  └─ Reason: HTTP error 425
+http://mgtracker.org:2710/announce
+  └─ Reason: connection failed: timed out
+http://bt.3dmgame.com:2710/announce
+  └─ Reason: connection failed: timed out
+http://kapio.ru:80/announce
+  └─ Reason: HTTP error 404
+http://lordfilm-online.top:80/announce
+  └─ Reason: HTTP error 404
+http://carr.codes:6969/announce
+  └─ Reason: connection failed: timed out
+http://daveking.com:6969/announce
+  └─ Reason: connection failed: timed out
+http://maze.tattoo:80/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+http://concen.org:6969/announce
+  └─ Reason: timeout
+http://mgtracker.org:6969/announce
+  └─ Reason: connection failed: timed out
+http://news.ozrtech.ru:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://mail.artixlinux.org:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://ow.ly:80/announce
+  └─ Reason: HTTP error 404
+http://movies.zsw.ca:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://mirror.aptus.co.tz:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://download.nerocloud.me:6969/announce
+  └─ Reason: connection failed: timed out
+http://p4p.arenabg.ch:1337/announce
+  └─ Reason: connection failed: timed out
+http://rb.gy:80/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+http://psyco.fr:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://api.bitumconference.ru:6969/announce
+  └─ Reason: connection failed: timed out
+http://aruacfilmes.com.br:6969/announce
+  └─ Reason: connection failed: timed out
+http://eddie4.nl:6969/announce
+  └─ Reason: connection failed: timed out
+http://engplus.ru:6969/announce
+  └─ Reason: connection failed: timed out
+http://htz3.noho.st:6969/announce
+  └─ Reason: connection failed: timed out
+http://sanincode.com:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://inferno.demonoid.me:3419/announce
+  └─ Reason: connection failed: timed out
+http://laze.cc:6969/announce
+  └─ Reason: connection failed: timed out
+http://line-net.ru:6969/announce
+  └─ Reason: connection failed: timed out
+http://ln.mtahost.co:6969/announce
+  └─ Reason: connection failed: timed out
+http://mail.realliferpg.de:6969/announce
+  └─ Reason: connection failed: timed out
+http://thagoat.rocks:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://mts.tvbit.co:6969/announce
+  └─ Reason: connection failed: timed out
+http://nagios.tks.sumy.ua:80/announce
+  └─ Reason: timeout
+http://tracker.ds.is:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.4.babico.name.tr:3131/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://public.popcorn-tracker.org:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.kamigami.org:2710/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.leechers-paradise.org:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://publictracker.ch:6969/announce
+  └─ Reason: connection failed: timed out
+http://rep-art.ynh.fr:6969/announce
+  └─ Reason: connection failed: timed out
+http://retracker.akado-ural.ru:80/announce
+  └─ Reason: connection failed: timed out
+http://retracker.sevstar.net:2710/announce
+  └─ Reason: connection failed: timed out
+http://tracker.noobsubs.net:80/announce
+  └─ Reason: error: Remote end closed connection without response
+http://tracker.mg64.net:6881/announce
+  └─ Reason: connection failed: timed out
+http://rutorrent.frontline-mod.com:6969/announce
+  └─ Reason: connection failed: timed out
+http://sd-161673.dedibox.fr:6969/announce
+  └─ Reason: connection failed: timed out
+http://shadowshq.eddie4.nl:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.tfile.me:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://shadowshq.yi.org:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.shkinev.me:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://tracker.vulnix.sh:6969/announce
+  └─ Reason: connection failed: [WinError 10049] Indirizzo richiesto non valido ne
+http://tr.bangumi.moe:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.army:6443/announce
+  └─ Reason: connection failed: timed out
+http://tracker3.ctix.cn:443/announce
+  └─ Reason: HTTP error 400
+http://tracker.army:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.coppersurfer.tk:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.ddunlimited.net:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.dyne.org:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.eddie4.nl:6969/announce
+  └─ Reason: connection failed: timed out
+http://ultra.zt.ua:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://www.legnostyle.ru:80/announce
+  └─ Reason: HTTP error 404
+http://www.kondhp.ru:80/announce
+  └─ Reason: HTTP error 404
+http://v1046920.hosted-by-vdsina.ru:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://www.zone-torrent.net:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://wassermann.online:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://tracker.mlsub.net:443/announce
+  └─ Reason: connection failed: timed out
+http://tracker.monitorit4.me:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.openbittorrent.com:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.peckservers.com:9000/announce
+  └─ Reason: connection failed: timed out
+http://tracker.sktorrent.net:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.swateam.org.uk:2710/announce
+  └─ Reason: connection failed: timed out
+http://tracker.v6speed.org:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.vraphim.com:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.ygsub.com:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker0.ufibox.com:6969/announce
+  └─ Reason: connection failed: timed out
+http://trakx.herokuapp.com:443/announce
+  └─ Reason: timeout
+http://9.rarbg.to:2730/announce
+  └─ Reason: connection failed: timed out
+http://www.midea123.z-media.com.cn:6969/announce
+  └─ Reason: connection failed: timed out
+http://www.skyts.net:6969/announce
+  └─ Reason: connection failed: timed out
+http://www.theoccult.bz:3010/announce
+  └─ Reason: connection failed: timed out
+http://opentor.org:2710/announce
+  └─ Reason: connection failed: timed out
+http://tracker.mg64.net:2710/announce
+  └─ Reason: connection failed: timed out
+http://tracker.mg64.net:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.datacenterlight.ch:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://open.tracker.cl:1337/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://167.235.245.209/announce
+  └─ Reason: HTTP error 404
+http://185.148.3.231/announce
+  └─ Reason: HTTP error 404
+http://51.68.122.172/announce
+  └─ Reason: HTTP error 404
+http://81.169.145.151/announce
+  └─ Reason: HTTP error 404
+http://baibako.tv/announce
+  └─ Reason: HTTP error 404
+http://carbon-bonsai-621.appspot.com/announce
+  └─ Reason: HTTP error 404
+http://bluebird-hd.org/announce
+  └─ Reason: HTTP error 404
+http://npupt.com/announce
+  └─ Reason: error: Remote end closed connection without response
+http://play.aimisayo.com:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://t-backup.213891.xyz:80/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+http://p2p.0g.cx:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tk.greedland.net:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.gbitt.info:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tamas3.ynh.fr:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://retracker.mgts.by:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://taciturn-shadow.spb.ru:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.electro-torrent.pl:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://wegkxfcivgx.ydns.eu:80/announce
+  └─ Reason: connection failed: timed out
+http://tracker.edkj.club:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker3.ctix.cn:8080/announce
+  └─ Reason: timeout
+http://share.camoe.cn:8080/announce
+  └─ Reason: connection failed: timed out
+http://tracker.files.fm:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.internetwarriors.net:1337/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://ipv6.rer.lol:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.beeimg.com:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://echostar.ddnsfree.com:8080/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://157.7.202.64:8080/announce
+  └─ Reason: HTTP error 404
+http://tracker.opentrackr.org:1337/announce
+  └─ Reason: connection failed: timed out
+http://104.28.1.30:8080/announce
+  └─ Reason: connection failed: timed out
+http://104.28.16.69/announce
+  └─ Reason: connection failed: timed out
+http://107.150.14.110:6969/announce
+  └─ Reason: connection failed: timed out
+http://109.121.134.121:1337/announce
+  └─ Reason: connection failed: timed out
+http://0123456789nonexistent.com:80/announce
+  └─ Reason: timeout
+http://0d.kebhana.mx:443/announce
+  └─ Reason: timeout
+http://114.55.113.60:6969/announce
+  └─ Reason: connection failed: timed out
+http://125.227.35.196:6969/announce
+  └─ Reason: connection failed: timed out
+http://128.199.70.66:5944/announce
+  └─ Reason: connection failed: timed out
+http://158.69.146.212:7777/announce
+  └─ Reason: connection failed: timed out
+http://173.254.204.71:1096/announce
+  └─ Reason: connection failed: timed out
+http://178.175.143.27/announce
+  └─ Reason: connection failed: timed out
+http://178.33.73.26:2710/announce
+  └─ Reason: connection failed: timed out
+http://182.176.139.129:6969/announce
+  └─ Reason: connection failed: timed out
+http://185.5.97.139:8089/announce
+  └─ Reason: connection failed: timed out
+http://188.165.253.109:1337/announce
+  └─ Reason: connection failed: timed out
+http://194.106.216.222/announce
+  └─ Reason: connection failed: timed out
+http://195.123.209.37:1337/announce
+  └─ Reason: connection failed: timed out
+http://210.244.71.25:6969/announce
+  └─ Reason: connection failed: timed out
+http://210.244.71.26:6969/announce
+  └─ Reason: connection failed: timed out
+http://213.159.215.198:6970/announce
+  └─ Reason: connection failed: timed out
+http://213.163.67.56:1337/announce
+  └─ Reason: connection failed: timed out
+http://37.19.5.139:6969/announce
+  └─ Reason: connection failed: timed out
+http://37.19.5.155:6881/announce
+  └─ Reason: connection failed: timed out
+http://46.4.109.148:6969/announce
+  └─ Reason: connection failed: timed out
+http://bt.endpot.com:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://bt.henbt.com:2710/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://bt.pusacg.org:8080/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://93.92.64.5/announce
+  └─ Reason: HTTP error 503
+http://bt.rer.lol:2710/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://bt1.letpo.com:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://bt2.careland.com.cn:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://5.79.249.77:6969/announce
+  └─ Reason: connection failed: timed out
+http://91.217.91.21:3218/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://5.79.83.193:2710/announce
+  └─ Reason: connection failed: timed out
+http://91.218.230.81:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://open.acgnxtracker.com:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://open.lolicon.eu:7777/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://51.254.244.161:6969/announce
+  └─ Reason: connection failed: timed out
+http://incine.ru:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://59.36.96.77:6969/announce
+  └─ Reason: connection failed: timed out
+http://parag.rs:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://retracker.krs-ix.ru/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://retracker.krs-ix.ru:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://retracker.gorcomnet.ru/announce
+  └─ Reason: HTTP error 404
+http://74.82.52.209:6969/announce
+  └─ Reason: connection failed: timed out
+http://80.246.243.18:6969/announce
+  └─ Reason: connection failed: timed out
+http://81.200.2.231/announce
+  └─ Reason: connection failed: timed out
+http://85.17.19.180/announce
+  └─ Reason: connection failed: timed out
+http://87.248.186.252:8080/announce
+  └─ Reason: connection failed: timed out
+http://87.253.152.137/announce
+  └─ Reason: connection failed: timed out
+http://thetracker.org:80/announce
+  └─ Reason: HTTP 200 but invalid tracker response
+http://torrent.gresille.org/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://torrentsmd.com:8080/announce
+  └─ Reason: HTTP error 403
+http://91.216.110.47/announce
+  └─ Reason: connection failed: timed out
+http://tracker.baravik.org:6970/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://bt.poletracker.org:2710/announce
+  └─ Reason: timeout
+http://tracker.bittorrent.am/announce
+  └─ Reason: HTTP 200 but invalid tracker response
+http://explodie.org:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.calculate.ru:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.cutie.dating:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.dutchtracking.com/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.dutchtracking.com:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.dutchtracking.nl/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.dutchtracking.nl:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.edoardocolombo.eu:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.ex.ua/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.ex.ua:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.filetracker.pl:8089/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://buny.uk:6969/announce
+  └─ Reason: timeout
+http://montreal.nyap2p.com:8080/announce
+  └─ Reason: timeout
+http://open.trackerlist.xyz:80/announce
+  └─ Reason: timeout
+http://tracker.ipv6tracker.ru:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.kicks-ass.net/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.kicks-ass.net:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.flashtorrents.org:6969/announce
+  └─ Reason: connection failed: [Errno 11002] getaddrinfo failed
+http://tracker.lelux.fi:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://retracker.spark-rostov.ru:80/announce
+  └─ Reason: timeout
+http://seeders-paradise.org:80/announce
+  └─ Reason: timeout
+http://t.acg.rip:6699/announce
+  └─ Reason: connection failed: timed out
+http://tracker.tfile.me/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.tiny-vps.com:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.aletorrenty.pl:2710/announce
+  └─ Reason: connection failed: timed out
+http://tracker.bittor.pw:1337/announce
+  └─ Reason: timeout
+http://tracker.corpscorp.online:80/announce
+  └─ Reason: connection failed: timed out
+http://torrent.hificode.in:6969/announce
+  └─ Reason: timeout
+http://tracker.bt-hash.com:80/announce
+  └─ Reason: timeout
+http://tracker1.wasabii.com.tw:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker2.itzmx.com:6961/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker2.wasabii.com.tw:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://v6-tracker.0g.cx:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://vps-dd0a0715.vps.ovh.net:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.grepler.com:6969/announce
+  └─ Reason: connection failed: timed out
+http://web.open-tracker.cf:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.lintk.me:2710/announce
+  └─ Reason: timeout
+http://tracker.bz:80/announce
+  └─ Reason: timeout
+http://tracker.dmcomic.org:2710/announce
+  └─ Reason: timeout
+http://tracker.skyts.net:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.ipv6tracker.org:80/announce
+  └─ Reason: timeout
+http://tracker.vanitycore.co:6969/announce
+  └─ Reason: timeout
+http://tracker1.bt.moack.co.kr:80/announce
+  └─ Reason: connection failed: timed out
+http://vps02.net.orel.ru:80/announce
+  └─ Reason: connection failed: timed out
+http://tracker810.xyz:11450/announce
+  └─ Reason: timeout
+http://wepzone.net:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.kuroy.me:5944/announce
+  └─ Reason: connection failed: timed out
+http://tracker.xiaoduola.xyz:6969/announce
+  └─ Reason: timeout
+http://www.peckservers.com:9000/announce
+  └─ Reason: connection failed: timed out
+http://tracker.city9x.com:2710/announce
+  └─ Reason: connection failed: timed out
+http://www.genesis-sp.org:2710/announce
+  └─ Reason: timeout
+http://www.torrentsnipe.info:2701/announce
+  └─ Reason: timeout
+http://retracker.hotplug.ru:2710/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.yoshi210.com:6969/announce
+  └─ Reason: connection failed: timed out
+http://ns3109441.mypdns.org:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
+  └─ Reason: connection failed: [WinError 10051] Tentativo di operazione del socke
+http://p4p.arenabg.com:1337/announce
+  └─ Reason: connection failed: timed out
+http://acxx.de:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://aegir.sexy:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://benouworldtrip.fr:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://canardscitrons.nohost.me:6969/announce
+  └─ Reason: connection failed: timed out
+http://astrr.ru:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://tracker.netmap.top:6969/announce
+  └─ Reason: connection failed: timed out
+http://boysbitte.be:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://bt.3kb.xyz:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://47.ip-51-68-199.eu:6969/announce
+  └─ Reason: connection failed: timed out
+http://61626c.net:6969/announce
+  └─ Reason: connection failed: timed out
+http://aarsen.me:6969/announce
+  └─ Reason: connection failed: timed out
+http://divanlogia.ru:80/announce
+  └─ Reason: HTTP error 404
+http://dostafka-obedi.ru:80/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+http://camera.lei001.com:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://bedro.cloud:6969/announce
+  └─ Reason: connection failed: timed out
+http://bioquantum.co.za:6969/announce
+  └─ Reason: connection failed: timed out
+http://ellman.ru:80/announce
+  └─ Reason: HTTP error 425
+http://dpiui.reedlan.com:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://git.vulnix.sh:6969/announce
+  └─ Reason: connection failed: [WinError 10049] Indirizzo richiesto non valido ne
+http://drogal.ru:80/announce
+  └─ Reason: HTTP error 404
+http://black-bird.ynh.fr:6969/announce
+  └─ Reason: connection failed: timed out
+http://blokas.io:6969/announce
+  └─ Reason: connection failed: timed out
+http://bms-hosxp.com:6969/announce
+  └─ Reason: connection failed: timed out
+http://tinfoil.space:6969/announce
+  └─ Reason: connection failed: timed out
+http://kupefurnitur.ru:80/announce
+  └─ Reason: HTTP error 425
+http://keycargo.ru:80/announce
+  └─ Reason: HTTP error 404
+http://kapio.ru:80/announce
+  └─ Reason: HTTP error 404
+http://bt.3dmgame.com:2710/announce
+  └─ Reason: connection failed: timed out
+http://kornident.ru:80/announce
+  └─ Reason: HTTP error 404
+http://lordfilm-online.top:80/announce
+  └─ Reason: HTTP error 404
+http://dht.dhtclub.com:666/announce
+  └─ Reason: connection failed: timed out
+http://maze.tattoo:80/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+http://mgtracker.org:2710/announce
+  └─ Reason: connection failed: timed out
+http://mgtracker.org:6969/announce
+  └─ Reason: connection failed: timed out
+http://carr.codes:6969/announce
+  └─ Reason: connection failed: timed out
+http://daveking.com:6969/announce
+  └─ Reason: connection failed: timed out
+http://news.ozrtech.ru:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://mail.artixlinux.org:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://ow.ly:80/announce
+  └─ Reason: HTTP error 404
+http://p4p.arenabg.ch:1337/announce
+  └─ Reason: connection failed: timed out
+http://download.nerocloud.me:6969/announce
+  └─ Reason: connection failed: timed out
+http://api.bitumconference.ru:6969/announce
+  └─ Reason: connection failed: timed out
+http://rb.gy:80/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+http://aruacfilmes.com.br:6969/announce
+  └─ Reason: connection failed: timed out
+http://movies.zsw.ca:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://mirror.aptus.co.tz:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://psyco.fr:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://eddie4.nl:6969/announce
+  └─ Reason: connection failed: timed out
+http://engplus.ru:6969/announce
+  └─ Reason: connection failed: timed out
+http://htz3.noho.st:6969/announce
+  └─ Reason: connection failed: timed out
+http://inferno.demonoid.me:3419/announce
+  └─ Reason: connection failed: timed out
+http://sanincode.com:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://thagoat.rocks:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://laze.cc:6969/announce
+  └─ Reason: connection failed: timed out
+http://line-net.ru:6969/announce
+  └─ Reason: connection failed: timed out
+http://ln.mtahost.co:6969/announce
+  └─ Reason: connection failed: timed out
+http://mail.realliferpg.de:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.4.babico.name.tr:3131/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://tracker.ds.is:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://mts.tvbit.co:6969/announce
+  └─ Reason: connection failed: timed out
+http://nagios.tks.sumy.ua:80/announce
+  └─ Reason: timeout
+http://tracker.kamigami.org:2710/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.leechers-paradise.org:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://public.popcorn-tracker.org:6969/announce
+  └─ Reason: connection failed: timed out
+http://publictracker.ch:6969/announce
+  └─ Reason: connection failed: timed out
+http://rep-art.ynh.fr:6969/announce
+  └─ Reason: connection failed: timed out
+http://retracker.akado-ural.ru:80/announce
+  └─ Reason: connection failed: timed out
+http://retracker.sevstar.net:2710/announce
+  └─ Reason: connection failed: timed out
+http://tracker.noobsubs.net:80/announce
+  └─ Reason: error: Remote end closed connection without response
+http://rutorrent.frontline-mod.com:6969/announce
+  └─ Reason: connection failed: timed out
+http://sd-161673.dedibox.fr:6969/announce
+  └─ Reason: connection failed: timed out
+http://shadowshq.eddie4.nl:6969/announce
+  └─ Reason: connection failed: timed out
+http://shadowshq.yi.org:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.tfile.me:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://tracker.shkinev.me:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://tracker.mg64.net:6881/announce
+  └─ Reason: connection failed: timed out
+http://tracker.vulnix.sh:6969/announce
+  └─ Reason: connection failed: [WinError 10049] Indirizzo richiesto non valido ne
+http://tr.bangumi.moe:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.army:6443/announce
+  └─ Reason: connection failed: timed out
+http://tracker3.ctix.cn:443/announce
+  └─ Reason: HTTP error 400
+http://tracker.army:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.coppersurfer.tk:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.ddunlimited.net:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.dyne.org:6969/announce
+  └─ Reason: connection failed: timed out
+http://ultra.zt.ua:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://tracker.eddie4.nl:6969/announce
+  └─ Reason: connection failed: timed out
+http://v1046920.hosted-by-vdsina.ru:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://www.kondhp.ru:80/announce
+  └─ Reason: HTTP error 404
+http://www.legnostyle.ru:80/announce
+  └─ Reason: HTTP error 404
+http://www.zone-torrent.net:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+http://wassermann.online:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://tracker.mlsub.net:443/announce
+  └─ Reason: connection failed: timed out
+http://tracker.monitorit4.me:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.openbittorrent.com:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.peckservers.com:9000/announce
+  └─ Reason: connection failed: timed out
+http://tracker.sktorrent.net:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.swateam.org.uk:2710/announce
+  └─ Reason: connection failed: timed out
+http://tracker.v6speed.org:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.vraphim.com:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker.ygsub.com:6969/announce
+  └─ Reason: connection failed: timed out
+http://tracker0.ufibox.com:6969/announce
+  └─ Reason: connection failed: timed out
+http://trakx.herokuapp.com:443/announce
+  └─ Reason: timeout
+http://www.midea123.z-media.com.cn:6969/announce
+  └─ Reason: connection failed: timed out
+http://www.skyts.net:6969/announce
+  └─ Reason: connection failed: timed out
+http://www.theoccult.bz:3010/announce
+  └─ Reason: connection failed: timed out
+http://9.rarbg.to:2730/announce
+  └─ Reason: connection failed: timed out
+http://opentor.org:2710/announce
+  └─ Reason: connection failed: timed out
+http://tracker.mg64.net:2710/announce
+  └─ Reason: connection failed: timed out
+http://tracker.mg64.net:6969/announce
+  └─ Reason: connection failed: timed out
+http://open.tracker.cl:1337/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+http://tracker.datacenterlight.ch:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+
+--- HTTPS (361) ---
+https://abir0dev.github.io/announce
+  └─ Reason: HTTP error 404
+https://academic-p2p.appspot.com/announce
+  └─ Reason: HTTP error 404
+https://bt2.080609.xyz/announce
+  └─ Reason: HTTP error 403
+https://kupefurnitur.ru/announce
+  └─ Reason: HTTP error 404
+https://inferno.demonoid.is/announce
+  └─ Reason: connection failed: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verif
+https://docker-tracker-production.up.railway.app/announce
+  └─ Reason: HTTP error 404
+https://edge-team.cc/announce
+  └─ Reason: HTTP error 404
+https://torrentonline.cc/announce
+  └─ Reason: HTTP error 404
+https://tracker.madtia.cc/announce
+  └─ Reason: HTTP error 404
+https://evening-badlands-6215.herokuapp.com/announce
+  └─ Reason: HTTP error 404
+https://on.springsunday.net/announce
+  └─ Reason: HTTP error 404
+https://tracker.qingwa.pro:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.lilithraws.cf:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://trackerssl.stream:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.tamersunion.org:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://trackers.run:443/announce
+  └─ Reason: HTTP error 403
+https://tracker.loligirl.cn:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.gbitt.info:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://trackers.mlsub.net:443/announce
+  └─ Reason: HTTP error 521
+https://alpha.torrenttracker.nl/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://bt.nfshost.com/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://opentracker.i2p.rocks:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://k.avc.cx/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://prestige.minimafia.nl/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://private.minimafia.nl/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://tracker.yemekyedim.com:443/announce
+  └─ Reason: HTTP error 521
+https://tracker.moeking.me:443/announce
+  └─ Reason: HTTP error 530
+https://tracker.alaskantf.com:443/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://tracker.leechshield.link/announce
+  └─ Reason: timeout
+https://tracker.belmult.online:443/announce
+  └─ Reason: timeout
+https://t1.hloli.org:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://torrent-tracker.hama3.net:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tr.burnabyhighstar.com:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tr.ready4.icu:443/announce
+  └─ Reason: HTTP error 521
+https://tracker.cloudit.top:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.expli.top:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.imgoingto.icu:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.foreverpirates.co:443/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://tracker.lelux.fi:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://104.28.17.69/announce
+  └─ Reason: connection failed: timed out
+https://tracker2.ctix.cn:443/announce
+  └─ Reason: connection failed: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert h
+https://www.wareztorrent.com/announce
+  └─ Reason: connection failed: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred i
+https://bt.bontal.net:443/announce
+  └─ Reason: connection failed: timed out
+https://tracker.jiesen.life:8443/announce
+  └─ Reason: connection failed: timed out
+https://tracker.renfei.net:443/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://yolo.liberbear.com:443/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://tracker.kuroy.me:443/announce
+  └─ Reason: timeout
+https://tracker.leechshield.link:443/announce
+  └─ Reason: timeout
+https://tr.abiir.top:443/announce
+  └─ Reason: connection failed: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred i
+https://track3r.site:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.gcrreen.xyz:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tr.qfruiti.com:443/announce
+  └─ Reason: HTTP error 444
+https://threads.canofsocks.com:443/announce
+  └─ Reason: HTTP error 525
+https://tracker.lilithraws.org:443/announce
+  └─ Reason: timeout
+https://tracker.mlsub.net:443/announce
+  └─ Reason: connection failed: timed out
+https://tracker.netmap.top:8443/announce
+  └─ Reason: connection failed: timed out
+https://tracker1.520.jp:443/announce
+  └─ Reason: connection failed: timed out
+https://www.peckservers.com:9443/announce
+  └─ Reason: connection failed: timed out
+https://yuki.bt.bontal.net:443/announce
+  └─ Reason: connection failed: timed out
+https://tr.abir.ga:443/announce
+  └─ Reason: connection failed: timed out
+https://tracker.ipfsscan.io:443/announce
+  └─ Reason: connection failed: timed out
+https://acxx.de:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://benouworldtrip.fr:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://aegir.sexy:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://boysbitte.be:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://astrr.ru:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://bt.3kb.xyz:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://concen.org:6969/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+https://47.ip-51-68-199.eu:6969/announce
+  └─ Reason: connection failed: timed out
+https://divanlogia.ru:443/announce
+  └─ Reason: HTTP error 404
+https://61626c.net:6969/announce
+  └─ Reason: connection failed: timed out
+https://camera.lei001.com:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://aarsen.me:6969/announce
+  └─ Reason: connection failed: timed out
+https://dostafka-obedi.ru:443/announce
+  └─ Reason: HTTP error 404
+https://ellman.ru:443/announce
+  └─ Reason: HTTP error 425
+https://drogal.ru:443/announce
+  └─ Reason: HTTP error 404
+https://git.vulnix.sh:6969/announce
+  └─ Reason: connection failed: [WinError 10049] Indirizzo richiesto non valido ne
+https://dpiui.reedlan.com:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://bedro.cloud:6969/announce
+  └─ Reason: connection failed: timed out
+https://bioquantum.co.za:6969/announce
+  └─ Reason: connection failed: timed out
+https://black-bird.ynh.fr:6969/announce
+  └─ Reason: connection failed: timed out
+https://blokas.io:6969/announce
+  └─ Reason: connection failed: timed out
+https://kornident.ru:443/announce
+  └─ Reason: HTTP error 404
+https://kupefurnitur.ru:443/announce
+  └─ Reason: HTTP error 425
+https://incine.ru:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://keycargo.ru:443/announce
+  └─ Reason: HTTP error 404
+https://kapio.ru:443/announce
+  └─ Reason: HTTP error 404
+https://lordfilm-online.top:443/announce
+  └─ Reason: HTTP error 404
+https://bms-hosxp.com:6969/announce
+  └─ Reason: connection failed: timed out
+https://bt.3dmgame.com:2710/announce
+  └─ Reason: connection failed: timed out
+https://carr.codes:6969/announce
+  └─ Reason: connection failed: timed out
+https://mail.artixlinux.org:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://maze.tattoo:443/announce
+  └─ Reason: HTTP error 404
+https://daveking.com:6969/announce
+  └─ Reason: connection failed: timed out
+https://montreal.nyap2p.com:8080/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+https://download.nerocloud.me:6969/announce
+  └─ Reason: connection failed: timed out
+https://eddie4.nl:6969/announce
+  └─ Reason: connection failed: timed out
+https://nagios.tks.sumy.ua:80/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+https://news.ozrtech.ru:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://mirror.aptus.co.tz:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://engplus.ru:6969/announce
+  └─ Reason: connection failed: timed out
+https://nyaa.tracker.wf:7777/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+https://ow.ly:443/announce
+  └─ Reason: HTTP error 404
+https://htz3.noho.st:6969/announce
+  └─ Reason: connection failed: timed out
+https://api.bitumconference.ru:6969/announce
+  └─ Reason: connection failed: timed out
+https://movies.zsw.ca:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://aruacfilmes.com.br:6969/announce
+  └─ Reason: connection failed: timed out
+https://open.touki.ru:443/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://inferno.demonoid.me:3419/announce
+  └─ Reason: connection failed: timed out
+https://parag.rs:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://psyco.fr:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://laze.cc:6969/announce
+  └─ Reason: connection failed: timed out
+https://line-net.ru:6969/announce
+  └─ Reason: connection failed: timed out
+https://ln.mtahost.co:6969/announce
+  └─ Reason: connection failed: timed out
+https://mail.realliferpg.de:6969/announce
+  └─ Reason: connection failed: timed out
+https://sanincode.com:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://thagoat.rocks:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://tk.greedland.net:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://mts.tvbit.co:6969/announce
+  └─ Reason: connection failed: timed out
+https://public.popcorn-tracker.org:6969/announce
+  └─ Reason: connection failed: timed out
+https://publictracker.ch:6969/announce
+  └─ Reason: connection failed: timed out
+https://rep-art.ynh.fr:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.anirena.com:80/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+https://retracker.akado-ural.ru:80/announce
+  └─ Reason: connection failed: timed out
+https://retracker.sevstar.net:2710/announce
+  └─ Reason: connection failed: timed out
+https://rutorrent.frontline-mod.com:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.4.babico.name.tr:3131/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://tracker.ds.is:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://sd-161673.dedibox.fr:6969/announce
+  └─ Reason: connection failed: timed out
+https://shadowshq.eddie4.nl:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.filetracker.pl:8089/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://shadowshq.yi.org:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.kamigami.org:2710/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.leechers-paradise.org:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://torrents.artixlinux.org:6969/announce
+  └─ Reason: connection failed: _ssl.c:989: The handshake operation timed out
+https://tr.bangumi.moe:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.aletorrenty.pl:2710/announce
+  └─ Reason: connection failed: timed out
+https://tracker.noobsubs.net:80/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+https://tracker.army:6443/announce
+  └─ Reason: connection failed: timed out
+https://tracker.army:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.coppersurfer.tk:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.ddunlimited.net:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.openbittorrent.com:80/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+https://tracker.dyne.org:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.tfile.me:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.eddie4.nl:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.vulnix.sh:6969/announce
+  └─ Reason: connection failed: [WinError 10049] Indirizzo richiesto non valido ne
+https://tracker.grepler.com:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.shkinev.me:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://tracker3.ctix.cn:443/announce
+  └─ Reason: connection failed: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert h
+https://trakx.herokuapp.com:443/announce
+  └─ Reason: HTTP error 404
+https://ultra.zt.ua:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://tracker.monitorit4.me:6969/announce
+  └─ Reason: connection failed: timed out
+https://9.rarbg.to:2730/announce
+  └─ Reason: connection failed: timed out
+https://www.all4nothin.net:80/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+https://www.legnostyle.ru:443/announce
+  └─ Reason: HTTP error 404
+https://v1046920.hosted-by-vdsina.ru:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://www.kondhp.ru:443/announce
+  └─ Reason: HTTP error 404
+https://wassermann.online:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://www.zone-torrent.net:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.openbittorrent.com:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.peckservers.com:9000/announce
+  └─ Reason: connection failed: timed out
+https://tracker.sktorrent.net:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.swateam.org.uk:2710/announce
+  └─ Reason: connection failed: timed out
+https://tracker.v6speed.org:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.ygsub.com:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker0.ufibox.com:6969/announce
+  └─ Reason: connection failed: timed out
+https://vps02.net.orel.ru:80/announce
+  └─ Reason: connection failed: timed out
+https://www.midea123.z-media.com.cn:6969/announce
+  └─ Reason: connection failed: timed out
+https://www.skyts.net:6969/announce
+  └─ Reason: connection failed: timed out
+https://www.theoccult.bz:3010/announce
+  └─ Reason: connection failed: timed out
+https://tracker1.520.jp/announce
+  └─ Reason: connection failed: timed out
+https://dht.dhtclub.com:666/announce
+  └─ Reason: connection failed: timed out
+https://mgtracker.org:2710/announce
+  └─ Reason: connection failed: timed out
+https://mgtracker.org:6969/announce
+  └─ Reason: connection failed: timed out
+https://opentor.org:2710/announce
+  └─ Reason: connection failed: timed out
+https://p4p.arenabg.ch:1337/announce
+  └─ Reason: connection failed: timed out
+https://tracker.madtia.cc/announce
+  └─ Reason: HTTP error 404
+https://torrentonline.cc/announce
+  └─ Reason: HTTP error 404
+https://edge-team.cc/announce
+  └─ Reason: HTTP error 404
+https://kupefurnitur.ru/announce
+  └─ Reason: HTTP error 404
+https://abir0dev.github.io/announce
+  └─ Reason: HTTP error 404
+https://academic-p2p.appspot.com/announce
+  └─ Reason: HTTP error 404
+https://bt2.080609.xyz/announce
+  └─ Reason: HTTP error 403
+https://docker-tracker-production.up.railway.app/announce
+  └─ Reason: HTTP error 404
+https://inferno.demonoid.is/announce
+  └─ Reason: connection failed: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verif
+https://evening-badlands-6215.herokuapp.com/announce
+  └─ Reason: HTTP error 404
+https://on.springsunday.net/announce
+  └─ Reason: HTTP error 404
+https://alpha.torrenttracker.nl/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://bt.nfshost.com/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://k.avc.cx/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://tracker.qingwa.pro:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://prestige.minimafia.nl/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://private.minimafia.nl/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://tracker.lilithraws.cf:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://trackerssl.stream:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.tamersunion.org:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://trackers.run:443/announce
+  └─ Reason: HTTP error 403
+https://trackers.mlsub.net:443/announce
+  └─ Reason: HTTP error 521
+https://tracker.loligirl.cn:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.gbitt.info:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.mg64.net:2710/announce
+  └─ Reason: connection failed: timed out
+https://tracker.leechshield.link/announce
+  └─ Reason: timeout
+https://tracker.mg64.net:6881/announce
+  └─ Reason: connection failed: timed out
+https://tracker.mg64.net:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.alaskantf.com:443/announce
+  └─ Reason: connection failed: timed out
+https://tracker.belmult.online:443/announce
+  └─ Reason: timeout
+https://opentracker.i2p.rocks:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.yemekyedim.com:443/announce
+  └─ Reason: HTTP error 521
+https://tracker.moeking.me:443/announce
+  └─ Reason: HTTP error 530
+https://t1.hloli.org:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://torrent-tracker.hama3.net:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tr.burnabyhighstar.com:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tr.ready4.icu:443/announce
+  └─ Reason: HTTP error 521
+https://tracker.cloudit.top:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.expli.top:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.imgoingto.icu:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.lelux.fi:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.foreverpirates.co:443/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://tracker2.ctix.cn:443/announce
+  └─ Reason: connection failed: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert h
+https://www.wareztorrent.com/announce
+  └─ Reason: connection failed: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred i
+https://tracker.renfei.net:443/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://104.28.17.69/announce
+  └─ Reason: connection failed: timed out
+https://yolo.liberbear.com:443/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://bt.bontal.net:443/announce
+  └─ Reason: connection failed: timed out
+https://threads.canofsocks.com:443/announce
+  └─ Reason: HTTP error 525
+https://tr.abiir.top:443/announce
+  └─ Reason: connection failed: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred i
+https://tracker.gcrenwp.top:443/announce
+  └─ Reason: timeout
+https://tr.abir.ga:443/announce
+  └─ Reason: connection failed: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verif
+https://track3r.site:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.gcrreen.xyz:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.jiesen.life:8443/announce
+  └─ Reason: connection failed: timed out
+https://tracker.kuroy.me:443/announce
+  └─ Reason: timeout
+https://tracker.leechshield.link:443/announce
+  └─ Reason: timeout
+https://tr.qfruiti.com:443/announce
+  └─ Reason: HTTP error 444
+https://tracker.mlsub.net:443/announce
+  └─ Reason: connection failed: timed out
+https://tracker.lilithraws.org:443/announce
+  └─ Reason: timeout
+https://tracker.netmap.top:8443/announce
+  └─ Reason: connection failed: timed out
+https://www.peckservers.com:9443/announce
+  └─ Reason: connection failed: timed out
+https://yuki.bt.bontal.net:443/announce
+  └─ Reason: connection failed: timed out
+https://cny.fan:443/announce
+  └─ Reason: timeout
+https://tracker.ipfsscan.io:443/announce
+  └─ Reason: connection failed: timed out
+https://acxx.de:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://aegir.sexy:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://benouworldtrip.fr:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://boysbitte.be:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://bt.3kb.xyz:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://47.ip-51-68-199.eu:6969/announce
+  └─ Reason: connection failed: timed out
+https://concen.org:6969/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+https://61626c.net:6969/announce
+  └─ Reason: connection failed: timed out
+https://aarsen.me:6969/announce
+  └─ Reason: connection failed: timed out
+https://divanlogia.ru:443/announce
+  └─ Reason: HTTP error 404
+https://dostafka-obedi.ru:443/announce
+  └─ Reason: HTTP error 404
+https://drogal.ru:443/announce
+  └─ Reason: HTTP error 404
+https://camera.lei001.com:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://ellman.ru:443/announce
+  └─ Reason: HTTP error 425
+https://astrr.ru:6969/announce
+  └─ Reason: connection failed: timed out
+https://git.vulnix.sh:6969/announce
+  └─ Reason: connection failed: [WinError 10049] Indirizzo richiesto non valido ne
+https://dpiui.reedlan.com:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://bedro.cloud:6969/announce
+  └─ Reason: connection failed: timed out
+https://bioquantum.co.za:6969/announce
+  └─ Reason: connection failed: timed out
+https://black-bird.ynh.fr:6969/announce
+  └─ Reason: connection failed: timed out
+https://blokas.io:6969/announce
+  └─ Reason: connection failed: timed out
+https://bms-hosxp.com:6969/announce
+  └─ Reason: connection failed: timed out
+https://keycargo.ru:443/announce
+  └─ Reason: HTTP error 404
+https://kapio.ru:443/announce
+  └─ Reason: HTTP error 404
+https://kupefurnitur.ru:443/announce
+  └─ Reason: HTTP error 425
+https://incine.ru:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://lordfilm-online.top:443/announce
+  └─ Reason: HTTP error 403
+https://kornident.ru:443/announce
+  └─ Reason: HTTP error 404
+https://bt.3dmgame.com:2710/announce
+  └─ Reason: connection failed: timed out
+https://maze.tattoo:443/announce
+  └─ Reason: HTTP error 404
+https://mail.artixlinux.org:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://carr.codes:6969/announce
+  └─ Reason: connection failed: timed out
+https://daveking.com:6969/announce
+  └─ Reason: connection failed: timed out
+https://montreal.nyap2p.com:8080/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+https://download.nerocloud.me:6969/announce
+  └─ Reason: connection failed: timed out
+https://eddie4.nl:6969/announce
+  └─ Reason: connection failed: timed out
+https://nagios.tks.sumy.ua:80/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+https://news.ozrtech.ru:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://nyaa.tracker.wf:7777/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+https://movies.zsw.ca:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://mirror.aptus.co.tz:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://api.bitumconference.ru:6969/announce
+  └─ Reason: connection failed: timed out
+https://engplus.ru:6969/announce
+  └─ Reason: connection failed: timed out
+https://ow.ly:443/announce
+  └─ Reason: HTTP error 404
+https://aruacfilmes.com.br:6969/announce
+  └─ Reason: connection failed: timed out
+https://htz3.noho.st:6969/announce
+  └─ Reason: connection failed: timed out
+https://inferno.demonoid.me:3419/announce
+  └─ Reason: connection failed: timed out
+https://open.touki.ru:443/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://parag.rs:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://laze.cc:6969/announce
+  └─ Reason: connection failed: timed out
+https://psyco.fr:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://line-net.ru:6969/announce
+  └─ Reason: connection failed: timed out
+https://ln.mtahost.co:6969/announce
+  └─ Reason: connection failed: timed out
+https://mail.realliferpg.de:6969/announce
+  └─ Reason: connection failed: timed out
+https://sanincode.com:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://thagoat.rocks:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://tk.greedland.net:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://mts.tvbit.co:6969/announce
+  └─ Reason: connection failed: timed out
+https://public.popcorn-tracker.org:6969/announce
+  └─ Reason: connection failed: timed out
+https://publictracker.ch:6969/announce
+  └─ Reason: connection failed: timed out
+https://rep-art.ynh.fr:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.anirena.com:80/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+https://retracker.sevstar.net:2710/announce
+  └─ Reason: connection failed: timed out
+https://retracker.akado-ural.ru:80/announce
+  └─ Reason: connection failed: timed out
+https://rutorrent.frontline-mod.com:6969/announce
+  └─ Reason: connection failed: timed out
+https://sd-161673.dedibox.fr:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.ds.is:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.4.babico.name.tr:3131/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://shadowshq.eddie4.nl:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.filetracker.pl:8089/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://shadowshq.yi.org:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.kamigami.org:2710/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.leechers-paradise.org:6969/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tr.bangumi.moe:6969/announce
+  └─ Reason: connection failed: timed out
+https://torrents.artixlinux.org:6969/announce
+  └─ Reason: connection failed: _ssl.c:989: The handshake operation timed out
+https://tracker.aletorrenty.pl:2710/announce
+  └─ Reason: connection failed: timed out
+https://tracker.noobsubs.net:80/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+https://tracker.army:6443/announce
+  └─ Reason: connection failed: timed out
+https://tracker.openbittorrent.com:80/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+https://tracker.army:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.coppersurfer.tk:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.ddunlimited.net:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.dyne.org:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.eddie4.nl:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.tfile.me:443/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.vulnix.sh:6969/announce
+  └─ Reason: connection failed: [WinError 10049] Indirizzo richiesto non valido ne
+https://tracker.grepler.com:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.shkinev.me:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://tracker3.ctix.cn:443/announce
+  └─ Reason: connection failed: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert h
+https://trakx.herokuapp.com:443/announce
+  └─ Reason: HTTP error 404
+https://ultra.zt.ua:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://9.rarbg.to:2730/announce
+  └─ Reason: connection failed: timed out
+https://tracker.monitorit4.me:6969/announce
+  └─ Reason: connection failed: timed out
+https://www.all4nothin.net:80/announce
+  └─ Reason: connection failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (
+https://www.legnostyle.ru:443/announce
+  └─ Reason: HTTP error 404
+https://www.kondhp.ru:443/announce
+  └─ Reason: HTTP error 404
+https://v1046920.hosted-by-vdsina.ru:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://wassermann.online:6969/announce
+  └─ Reason: connection failed: [WinError 10061] Impossibile stabilire la connessi
+https://www.zone-torrent.net:80/announce
+  └─ Reason: connection failed: [Errno 11001] getaddrinfo failed
+https://tracker.openbittorrent.com:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.peckservers.com:9000/announce
+  └─ Reason: connection failed: timed out
+https://tracker.sktorrent.net:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.swateam.org.uk:2710/announce
+  └─ Reason: connection failed: timed out
+https://tracker.v6speed.org:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker.ygsub.com:6969/announce
+  └─ Reason: connection failed: timed out
+https://tracker0.ufibox.com:6969/announce
+  └─ Reason: connection failed: timed out
+https://vps02.net.orel.ru:80/announce
+  └─ Reason: connection failed: timed out
+https://www.midea123.z-media.com.cn:6969/announce
+  └─ Reason: connection failed: timed out
+https://www.skyts.net:6969/announce
+  └─ Reason: connection failed: timed out
+https://www.theoccult.bz:3010/announce
+  └─ Reason: connection failed: timed out
+https://tracker1.520.jp/announce
+  └─ Reason: connection failed: timed out
+https://dht.dhtclub.com:666/announce
+  └─ Reason: connection failed: timed out
+https://mgtracker.org:2710/announce
+  └─ Reason: connection failed: timed out
+https://mgtracker.org:6969/announce
+  └─ Reason: connection failed: timed out
+https://opentor.org:2710/announce
+  └─ Reason: connection failed: timed out
+https://p4p.arenabg.ch:1337/announce
+  └─ Reason: connection failed: timed out
+https://tracker.mg64.net:2710/announce
+  └─ Reason: connection failed: timed out
+https://tracker.mg64.net:6881/announce
+  └─ Reason: connection failed: timed out
+https://tracker.mg64.net:6969/announce
+  └─ Reason: connection failed: timed out
+
+--- UDP (420) ---
+udp://node01.madtia.cc:42069/announce
+  └─ Reason: no response
+udp://node01.edge-team.cc:42069/announce
+  └─ Reason: no response
+udp://kingof.torrentonline.cc:42069/announce
+  └─ Reason: no response
+udp://dpiui.reedlan.com:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://151.242.30.86:42069/announce
+  └─ Reason: no response
+udp://git.vulnix.sh:6969/announce
+  └─ Reason: error: [WinError 10013] Tentativo di accesso al socket co
+udp://incine.ru:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://47.ip-51-68-199.eu:6969/announce
+  └─ Reason: no response
+udp://61626c.net:6969/announce
+  └─ Reason: no response
+udp://line-net.ru:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://api.bitumconference.ru:6969/announce
+  └─ Reason: no response
+udp://aruacfilmes.com.br:6969/announce
+  └─ Reason: no response
+udp://bioquantum.co.za:6969/announce
+  └─ Reason: no response
+udp://blokas.io:6969/announce
+  └─ Reason: no response
+udp://nyaa.tracker.wf:7777/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://bms-hosxp.com:6969/announce
+  └─ Reason: no response
+udp://parag.rs:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://bt.3dmgame.com:2710/announce
+  └─ Reason: no response
+udp://daveking.com:6969/announce
+  └─ Reason: no response
+udp://dht.dhtclub.com:666/announce
+  └─ Reason: no response
+udp://engplus.ru:6969/announce
+  └─ Reason: no response
+udp://inferno.demonoid.me:3419/announce
+  └─ Reason: no response
+udp://ln.mtahost.co:6969/announce
+  └─ Reason: no response
+udp://mail.realliferpg.de:6969/announce
+  └─ Reason: no response
+udp://mgtracker.org:6969/announce
+  └─ Reason: no response
+udp://montreal.nyap2p.com:8080/announce
+  └─ Reason: no response
+udp://mts.tvbit.co:6969/announce
+  └─ Reason: no response
+udp://nagios.tks.sumy.ua:80/announce
+  └─ Reason: no response
+udp://p4p.arenabg.ch:1337/announce
+  └─ Reason: no response
+udp://tracker.shkinev.me:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://public.tracker.vraphim.com:6969/announce
+  └─ Reason: no response
+udp://tracker.vulnix.sh:6969/announce
+  └─ Reason: error: [WinError 10013] Tentativo di accesso al socket co
+udp://publictracker.ch:6969/announce
+  └─ Reason: no response
+udp://retracker.akado-ural.ru:80/announce
+  └─ Reason: no response
+udp://retracker.sevstar.net:2710/announce
+  └─ Reason: no response
+udp://wassermann.online:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://rutorrent.frontline-mod.com:6969/announce
+  └─ Reason: no response
+udp://sd-161673.dedibox.fr:6969/announce
+  └─ Reason: no response
+udp://tracker.anirena.com:80/announce
+  └─ Reason: no response
+udp://tracker.army:6969/announce
+  └─ Reason: no response
+udp://tracker.dyne.org:6969/announce
+  └─ Reason: no response
+udp://tracker.mg64.net:6881/announce
+  └─ Reason: no response
+udp://tracker.mlsub.net:443/announce
+  └─ Reason: no response
+udp://tracker.noobsubs.net:80/announce
+  └─ Reason: no response
+udp://tracker.peckservers.com:9000/announce
+  └─ Reason: no response
+udp://tracker.openbittorrent.com:80/announce
+  └─ Reason: no response
+udp://tracker.v6speed.org:6969/announce
+  └─ Reason: no response
+udp://tracker.ygsub.com:6969/announce
+  └─ Reason: no response
+udp://tracker0.ufibox.com:6969/announce
+  └─ Reason: no response
+udp://ultra.zt.ua:6969/announce
+  └─ Reason: no response
+udp://trakx.herokuapp.com:443/announce
+  └─ Reason: no response
+udp://vps02.net.orel.ru:80/announce
+  └─ Reason: no response
+udp://www.all4nothin.net:80/announce
+  └─ Reason: no response
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://odd-hd.fr:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://www.midea123.z-media.com.cn:6969/announce
+  └─ Reason: no response
+udp://www.skyts.net:6969/announce
+  └─ Reason: no response
+udp://www.theoccult.bz:3010/announce
+  └─ Reason: no response
+udp://node01.trackerstatus.live:42069/announce
+  └─ Reason: no response
+udp://node01.madtia.cc:42069/announce
+  └─ Reason: no response
+udp://node02.torrentonline.cc:42069/announce
+  └─ Reason: no response
+udp://opentor.org:2710/announce
+  └─ Reason: no response
+udp://tracker.swateam.org.uk:2710/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://tracker.internetwarriors.net:1337/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://open.demonii.si:1337/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://ipv4.tracker.harry.lu:80/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://tracker.therarbg.com:6969/announce
+  └─ Reason: no response
+udp://tracker.iamhansen.xyz:2000/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://isk.richardsw.club:6969/announce
+  └─ Reason: no response
+udp://1c.premierzal.ru:6969/announce
+  └─ Reason: no response
+udp://anzix.net:6969/announce
+  └─ Reason: no response
+udp://tracker1.bt.moack.co.kr:80/announce
+  └─ Reason: no response
+udp://tracker.auctor.tv:6969/announce
+  └─ Reason: no response
+udp://tracker2.dler.org:80/announce
+  └─ Reason: no response
+udp://tracker.coppersurfer.tk:6969/announce
+  └─ Reason: no response
+udp://tracker.cyberia.is:6969/announce
+  └─ Reason: no response
+udp://denis.stalker.upeer.me:6969/announce
+  └─ Reason: no response
+udp://tracker.zer0day.to:1337/announce
+  └─ Reason: no response
+udp://torr.ws:2710/announce
+  └─ Reason: no response
+udp://public.popcorn-tracker.org:6969/announce
+  └─ Reason: no response
+udp://tracker.uw0.xyz:6969/announce
+  └─ Reason: no response
+udp://tracker.mg64.net:6969/announce
+  └─ Reason: no response
+udp://9.rarbg.me:2710/announce
+  └─ Reason: no response
+udp://9.rarbg.to:2710/announce
+  └─ Reason: no response
+udp://tracker.x6c.co:6969/announce
+  └─ Reason: no response
+udp://retracker01-msk-virt.corbina.net:80/announce
+  └─ Reason: no response
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://odd-hd.fr:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://tracker.iamhansen.xyz:2000/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://opentor.org:2710/announce
+  └─ Reason: no response
+udp://anzix.net:6969/announce
+  └─ Reason: no response
+udp://1c.premierzal.ru:6969/announce
+  └─ Reason: no response
+udp://tracker.therarbg.com:6969/announce
+  └─ Reason: no response
+udp://isk.richardsw.club:6969/announce
+  └─ Reason: no response
+udp://tracker.internetwarriors.net:1337/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://tracker1.bt.moack.co.kr:80/announce
+  └─ Reason: no response
+udp://tracker.swateam.org.uk:2710/announce
+  └─ Reason: no response
+udp://ipv4.tracker.harry.lu:80/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://torr.ws:2710/announce
+  └─ Reason: no response
+udp://public.popcorn-tracker.org:6969/announce
+  └─ Reason: no response
+udp://tracker.mg64.net:6969/announce
+  └─ Reason: no response
+udp://9.rarbg.me:2710/announce
+  └─ Reason: no response
+udp://9.rarbg.to:2710/announce
+  └─ Reason: no response
+udp://tracker.x6c.co:6969/announce
+  └─ Reason: no response
+udp://tracker.auctor.tv:6969/announce
+  └─ Reason: no response
+udp://tracker2.dler.org:80/announce
+  └─ Reason: no response
+udp://tracker.coppersurfer.tk:6969/announce
+  └─ Reason: no response
+udp://tracker.cyberia.is:6969/announce
+  └─ Reason: no response
+udp://open.demonii.si:1337/announce
+  └─ Reason: no response
+udp://denis.stalker.upeer.me:6969/announce
+  └─ Reason: no response
+udp://tracker.zer0day.to:1337/announce
+  └─ Reason: no response
+udp://retracker01-msk-virt.corbina.net:80/announce
+  └─ Reason: no response
+udp://195.123.209.40:80/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://109.121.134.121:1337/announce
+  └─ Reason: no response
+udp://107.150.14.110:6969/announce
+  └─ Reason: no response
+udp://114.55.113.60:6969/announce
+  └─ Reason: no response
+udp://128.199.70.66:5944/announce
+  └─ Reason: no response
+udp://151.80.120.114:2710/announce
+  └─ Reason: no response
+udp://168.235.67.63:6969/announce
+  └─ Reason: no response
+udp://178.33.73.26:2710/announce
+  └─ Reason: no response
+udp://182.176.139.129:6969/announce
+  └─ Reason: no response
+udp://185.5.97.139:8089/announce
+  └─ Reason: no response
+udp://185.86.149.205:1337/announce
+  └─ Reason: no response
+udp://89.234.156.205:80/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://188.165.253.109:1337/announce
+  └─ Reason: no response
+udp://191.101.229.236:1337/announce
+  └─ Reason: no response
+udp://194.106.216.222:80/announce
+  └─ Reason: no response
+udp://195.123.209.37:1337/announce
+  └─ Reason: no response
+udp://91.218.230.81:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://208.67.16.113:8000/announce
+  └─ Reason: no response
+udp://213.163.67.56:1337/announce
+  └─ Reason: no response
+udp://37.19.5.155:2710/announce
+  └─ Reason: no response
+udp://acxx.de:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://aegir.sexy:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://46.4.109.148:6969/announce
+  └─ Reason: no response
+udp://5.79.249.77:6969/announce
+  └─ Reason: no response
+udp://astrr.ru:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://bt.ktrackers.com:6666/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://5.79.83.193:6969/announce
+  └─ Reason: no response
+udp://51.254.244.161:6969/announce
+  └─ Reason: no response
+udp://camera.lei001.com:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://6.pocketnet.app:6969/announce
+  └─ Reason: no response
+udp://62.138.0.158:6969/announce
+  └─ Reason: no response
+udp://62.212.85.66:2710/announce
+  └─ Reason: no response
+udp://74.82.52.209:6969/announce
+  └─ Reason: no response
+udp://85.17.19.180:80/announce
+  └─ Reason: no response
+udp://9.rarbg.com:2710/announce
+  └─ Reason: no response
+udp://9.rarbg.com:2810/announce
+  └─ Reason: no response
+udp://9.rarbg.me:2780/announce
+  └─ Reason: no response
+udp://mail.artixlinux.org:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://9.rarbg.to:2730/announce
+  └─ Reason: no response
+udp://mirror.aptus.co.tz:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://94.23.183.33:6969/announce
+  └─ Reason: no response
+udp://aarsen.me:6969/announce
+  └─ Reason: no response
+udp://open.tracker.cl:1337/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://bedro.cloud:6969/announce
+  └─ Reason: no response
+udp://black-bird.ynh.fr:6969/announce
+  └─ Reason: no response
+udp://bt.bontal.net:6969/announce
+  └─ Reason: no response
+udp://bt1.archive.org:6969/announce
+  └─ Reason: no response
+udp://psyco.fr:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://bt2.archive.org:6969/announce
+  └─ Reason: no response
+udp://carr.codes:6969/announce
+  └─ Reason: no response
+udp://concen.org:6969/announce
+  └─ Reason: no response
+udp://discord.heihachi.pw:6969/announce
+  └─ Reason: no response
+udp://download.nerocloud.me:6969/announce
+  └─ Reason: no response
+udp://eddie4.nl:6969/announce
+  └─ Reason: no response
+udp://static.54.161.216.95.clients.your-server.de:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://tamas3.ynh.fr:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://thagoat.rocks:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://epider.me:6969/announce
+  └─ Reason: no response
+udp://htz3.noho.st:6969/announce
+  └─ Reason: no response
+udp://hz.is:1337/announce
+  └─ Reason: no response
+udp://tracker.altrosky.nl:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://tracker.birkenwald.de:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://laze.cc:6969/announce
+  └─ Reason: no response
+udp://mgtracker.org:2710/announce
+  └─ Reason: no response
+udp://moonburrow.club:6969/announce
+  └─ Reason: no response
+udp://movies.zsw.ca:6969/announce
+  └─ Reason: no response
+udp://new-line.net:6969/announce
+  └─ Reason: no response
+udp://open.free-tracker.ga:6969/announce
+  └─ Reason: no response
+udp://open.u-p.pw:6969/announce
+  └─ Reason: no response
+udp://opentracker.io:6969/announce
+  └─ Reason: no response
+udp://p4p.arenabg.com:1337/announce
+  └─ Reason: no response
+udp://rep-art.ynh.fr:6969/announce
+  └─ Reason: no response
+udp://run.publictracker.xyz:6969/announce
+  └─ Reason: no response
+udp://ryjer.com:6969/announce
+  └─ Reason: no response
+udp://sanincode.com:6969/announce
+  └─ Reason: no response
+udp://shadowshq.eddie4.nl:6969/announce
+  └─ Reason: no response
+udp://shadowshq.yi.org:6969/announce
+  └─ Reason: no response
+udp://thouvenin.cloud:6969/announce
+  └─ Reason: no response
+udp://tr.bangumi.moe:6969/announce
+  └─ Reason: no response
+udp://tracker.4.babico.name.tr:3131/announce
+  └─ Reason: no response
+udp://tracker.aletorrenty.pl:2710/announce
+  └─ Reason: no response
+udp://tracker.bitsearch.to:1337/announce
+  └─ Reason: no response
+udp://tracker.cubonegro.lol:6969/announce
+  └─ Reason: no response
+udp://tracker4.piratux.com:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://tracker.ddunlimited.net:6969/announce
+  └─ Reason: no response
+udp://tracker.dump.cl:6969/announce
+  └─ Reason: no response
+udp://v1046920.hosted-by-vdsina.ru:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://tracker.eddie4.nl:6969/announce
+  └─ Reason: no response
+udp://tracker.edkj.club:6969/announce
+  └─ Reason: no response
+udp://tracker.filemail.com:6969/announce
+  └─ Reason: no response
+udp://tracker.grepler.com:6969/announce
+  └─ Reason: no response
+udp://tracker.hifimarket.in:2710/announce
+  └─ Reason: no response
+udp://tracker.kuroy.me:5944/announce
+  └─ Reason: no response
+udp://tracker.mg64.net:2710/announce
+  └─ Reason: no response
+udp://tracker.moeking.me:6969/announce
+  └─ Reason: no response
+udp://tracker.monitorit4.me:6969/announce
+  └─ Reason: no response
+udp://amigacity.xyz:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://bubu.mapfactor.com:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://btt.service.gongt.me:43079/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://jutone.com:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://tracker.ololosh.space:6969/announce
+  └─ Reason: no response
+udp://tracker.openbittorrent.com:6969/announce
+  └─ Reason: no response
+udp://tracker.pimpmyworld.to:6969/announce
+  └─ Reason: no response
+udp://tracker.renfei.net:8080/announce
+  └─ Reason: no response
+udp://tracker.sktorrent.net:6969/announce
+  └─ Reason: no response
+udp://tracker.skyts.net:6969/announce
+  └─ Reason: no response
+udp://tracker.t-rb.org:6969/announce
+  └─ Reason: no response
+udp://ttk2.nbaonlineservice.com:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://tracker.yoshi210.com:6969/announce
+  └─ Reason: no response
+udp://trackerb.jonaslsa.com:6969/announce
+  └─ Reason: no response
+udp://ts.populargamers.co.za:6969/announce
+  └─ Reason: no response
+udp://www.peckservers.com:9000/announce
+  └─ Reason: no response
+udp://yahor.of.by:6969/announce
+  └─ Reason: no response
+udp://zecircle.xyz:6969/announce
+  └─ Reason: no response
+udp://zer0day.ch:1337/announce
+  └─ Reason: no response
+udp://zer0day.to:1337/announce
+  └─ Reason: no response
+udp://207.241.226.111:6969/announce
+  └─ Reason: no response
+udp://207.241.231.226:6969/announce
+  └─ Reason: no response
+udp://89.110.76.229:6969/announce
+  └─ Reason: no response
+udp://open.xxtor.com:3074/announce
+  └─ Reason: no response
+udp://opentor.org:2710/announce
+  └─ Reason: no response
+udp://seedpeer.net:6969/announce
+  └─ Reason: no response
+udp://su-data.com:6969/announce
+  └─ Reason: no response
+udp://195.123.209.40:80/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://tracker.picotorrent.one:6969/announce
+  └─ Reason: no response
+udp://tracker2.dler.com:80/announce
+  └─ Reason: no response
+udp://tracker3.itzmx.com:6961/announce
+  └─ Reason: no response
+udp://tracker4.itzmx.com:2710/announce
+  └─ Reason: no response
+udp://v74853.hosted-by-vdsina.com:6969/announce
+  └─ Reason: no response
+udp://107.150.14.110:6969/announce
+  └─ Reason: no response
+udp://109.121.134.121:1337/announce
+  └─ Reason: no response
+udp://114.55.113.60:6969/announce
+  └─ Reason: no response
+udp://128.199.70.66:5944/announce
+  └─ Reason: no response
+udp://151.80.120.114:2710/announce
+  └─ Reason: no response
+udp://168.235.67.63:6969/announce
+  └─ Reason: no response
+udp://178.33.73.26:2710/announce
+  └─ Reason: no response
+udp://89.234.156.205:80/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://182.176.139.129:6969/announce
+  └─ Reason: no response
+udp://185.5.97.139:8089/announce
+  └─ Reason: no response
+udp://185.86.149.205:1337/announce
+  └─ Reason: no response
+udp://188.165.253.109:1337/announce
+  └─ Reason: no response
+udp://91.218.230.81:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://191.101.229.236:1337/announce
+  └─ Reason: no response
+udp://194.106.216.222:80/announce
+  └─ Reason: no response
+udp://acxx.de:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://aegir.sexy:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://astrr.ru:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://195.123.209.37:1337/announce
+  └─ Reason: no response
+udp://208.67.16.113:8000/announce
+  └─ Reason: no response
+udp://213.163.67.56:1337/announce
+  └─ Reason: no response
+udp://bt.ktrackers.com:6666/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://37.19.5.155:2710/announce
+  └─ Reason: no response
+udp://46.4.109.148:6969/announce
+  └─ Reason: no response
+udp://5.79.249.77:6969/announce
+  └─ Reason: no response
+udp://camera.lei001.com:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://5.79.83.193:6969/announce
+  └─ Reason: no response
+udp://51.254.244.161:6969/announce
+  └─ Reason: no response
+udp://6.pocketnet.app:6969/announce
+  └─ Reason: no response
+udp://62.138.0.158:6969/announce
+  └─ Reason: no response
+udp://62.212.85.66:2710/announce
+  └─ Reason: no response
+udp://74.82.52.209:6969/announce
+  └─ Reason: no response
+udp://85.17.19.180:80/announce
+  └─ Reason: no response
+udp://9.rarbg.com:2710/announce
+  └─ Reason: no response
+udp://mail.artixlinux.org:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://9.rarbg.com:2810/announce
+  └─ Reason: no response
+udp://mirror.aptus.co.tz:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://9.rarbg.me:2780/announce
+  └─ Reason: no response
+udp://9.rarbg.to:2730/announce
+  └─ Reason: no response
+udp://94.23.183.33:6969/announce
+  └─ Reason: no response
+udp://aarsen.me:6969/announce
+  └─ Reason: no response
+udp://open.tracker.cl:1337/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://bedro.cloud:6969/announce
+  └─ Reason: no response
+udp://black-bird.ynh.fr:6969/announce
+  └─ Reason: no response
+udp://psyco.fr:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://bt.bontal.net:6969/announce
+  └─ Reason: no response
+udp://bt1.archive.org:6969/announce
+  └─ Reason: no response
+udp://bt2.archive.org:6969/announce
+  └─ Reason: no response
+udp://carr.codes:6969/announce
+  └─ Reason: no response
+udp://concen.org:6969/announce
+  └─ Reason: no response
+udp://discord.heihachi.pw:6969/announce
+  └─ Reason: no response
+udp://static.54.161.216.95.clients.your-server.de:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://tamas3.ynh.fr:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://thagoat.rocks:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://download.nerocloud.me:6969/announce
+  └─ Reason: no response
+udp://eddie4.nl:6969/announce
+  └─ Reason: no response
+udp://epider.me:6969/announce
+  └─ Reason: no response
+udp://htz3.noho.st:6969/announce
+  └─ Reason: no response
+udp://tracker.altrosky.nl:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://tracker.birkenwald.de:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://hz.is:1337/announce
+  └─ Reason: no response
+udp://laze.cc:6969/announce
+  └─ Reason: no response
+udp://mgtracker.org:2710/announce
+  └─ Reason: no response
+udp://moonburrow.club:6969/announce
+  └─ Reason: no response
+udp://movies.zsw.ca:6969/announce
+  └─ Reason: no response
+udp://new-line.net:6969/announce
+  └─ Reason: no response
+udp://open.free-tracker.ga:6969/announce
+  └─ Reason: no response
+udp://open.u-p.pw:6969/announce
+  └─ Reason: no response
+udp://p4p.arenabg.com:1337/announce
+  └─ Reason: no response
+udp://rep-art.ynh.fr:6969/announce
+  └─ Reason: no response
+udp://run.publictracker.xyz:6969/announce
+  └─ Reason: no response
+udp://ryjer.com:6969/announce
+  └─ Reason: no response
+udp://sanincode.com:6969/announce
+  └─ Reason: no response
+udp://shadowshq.eddie4.nl:6969/announce
+  └─ Reason: no response
+udp://shadowshq.yi.org:6969/announce
+  └─ Reason: no response
+udp://thouvenin.cloud:6969/announce
+  └─ Reason: no response
+udp://tr.bangumi.moe:6969/announce
+  └─ Reason: no response
+udp://tracker.aletorrenty.pl:2710/announce
+  └─ Reason: no response
+udp://tracker.4.babico.name.tr:3131/announce
+  └─ Reason: no response
+udp://tracker.bitsearch.to:1337/announce
+  └─ Reason: no response
+udp://tracker4.piratux.com:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://tracker.cubonegro.lol:6969/announce
+  └─ Reason: no response
+udp://tracker.ddunlimited.net:6969/announce
+  └─ Reason: no response
+udp://v1046920.hosted-by-vdsina.ru:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://tracker.dump.cl:6969/announce
+  └─ Reason: no response
+udp://tracker.eddie4.nl:6969/announce
+  └─ Reason: no response
+udp://tracker.edkj.club:6969/announce
+  └─ Reason: no response
+udp://tracker.grepler.com:6969/announce
+  └─ Reason: no response
+udp://tracker.hifimarket.in:2710/announce
+  └─ Reason: no response
+udp://tracker.kuroy.me:5944/announce
+  └─ Reason: no response
+udp://tracker.mg64.net:2710/announce
+  └─ Reason: no response
+udp://tracker.moeking.me:6969/announce
+  └─ Reason: no response
+udp://amigacity.xyz:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://tracker.monitorit4.me:6969/announce
+  └─ Reason: no response
+udp://bubu.mapfactor.com:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://btt.service.gongt.me:43079/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://jutone.com:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://tracker.ololosh.space:6969/announce
+  └─ Reason: no response
+udp://tracker.openbittorrent.com:6969/announce
+  └─ Reason: no response
+udp://tracker.pimpmyworld.to:6969/announce
+  └─ Reason: no response
+udp://tracker.renfei.net:8080/announce
+  └─ Reason: no response
+udp://tracker.sktorrent.net:6969/announce
+  └─ Reason: no response
+udp://tracker.skyts.net:6969/announce
+  └─ Reason: no response
+udp://tracker4.itzmx.com:2710/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://tracker.t-rb.org:6969/announce
+  └─ Reason: no response
+udp://tracker.yoshi210.com:6969/announce
+  └─ Reason: no response
+udp://trackerb.jonaslsa.com:6969/announce
+  └─ Reason: no response
+udp://ts.populargamers.co.za:6969/announce
+  └─ Reason: no response
+udp://www.peckservers.com:9000/announce
+  └─ Reason: no response
+udp://yahor.of.by:6969/announce
+  └─ Reason: no response
+udp://zecircle.xyz:6969/announce
+  └─ Reason: no response
+udp://zer0day.to:1337/announce
+  └─ Reason: no response
+udp://207.241.226.111:6969/announce
+  └─ Reason: no response
+udp://207.241.231.226:6969/announce
+  └─ Reason: no response
+udp://52.58.128.163:6969/announce
+  └─ Reason: no response
+udp://89.110.76.229:6969/announce
+  └─ Reason: no response
+udp://dpiui.reedlan.com:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://open.xxtor.com:3074/announce
+  └─ Reason: no response
+udp://git.vulnix.sh:6969/announce
+  └─ Reason: error: [WinError 10013] Tentativo di accesso al socket co
+udp://incine.ru:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://opentor.org:2710/announce
+  └─ Reason: no response
+udp://line-net.ru:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://seedpeer.net:6969/announce
+  └─ Reason: no response
+udp://su-data.com:6969/announce
+  └─ Reason: no response
+udp://tracker.picotorrent.one:6969/announce
+  └─ Reason: no response
+udp://tracker2.dler.com:80/announce
+  └─ Reason: no response
+udp://tracker3.itzmx.com:6961/announce
+  └─ Reason: no response
+udp://ttk2.nbaonlineservice.com:6969/announce
+  └─ Reason: no response
+udp://nyaa.tracker.wf:7777/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://v74853.hosted-by-vdsina.com:6969/announce
+  └─ Reason: no response
+udp://parag.rs:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://47.ip-51-68-199.eu:6969/announce
+  └─ Reason: no response
+udp://61626c.net:6969/announce
+  └─ Reason: no response
+udp://api.bitumconference.ru:6969/announce
+  └─ Reason: no response
+udp://aruacfilmes.com.br:6969/announce
+  └─ Reason: no response
+udp://bioquantum.co.za:6969/announce
+  └─ Reason: no response
+udp://blokas.io:6969/announce
+  └─ Reason: no response
+udp://bms-hosxp.com:6969/announce
+  └─ Reason: no response
+udp://bt.3dmgame.com:2710/announce
+  └─ Reason: no response
+udp://daveking.com:6969/announce
+  └─ Reason: no response
+udp://dht.dhtclub.com:666/announce
+  └─ Reason: no response
+udp://engplus.ru:6969/announce
+  └─ Reason: no response
+udp://inferno.demonoid.me:3419/announce
+  └─ Reason: no response
+udp://ln.mtahost.co:6969/announce
+  └─ Reason: no response
+udp://mail.realliferpg.de:6969/announce
+  └─ Reason: no response
+udp://tracker.shkinev.me:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://mgtracker.org:6969/announce
+  └─ Reason: no response
+udp://tracker.vulnix.sh:6969/announce
+  └─ Reason: error: [WinError 10013] Tentativo di accesso al socket co
+udp://montreal.nyap2p.com:8080/announce
+  └─ Reason: no response
+udp://mts.tvbit.co:6969/announce
+  └─ Reason: no response
+udp://nagios.tks.sumy.ua:80/announce
+  └─ Reason: no response
+udp://p4p.arenabg.ch:1337/announce
+  └─ Reason: no response
+udp://public.tracker.vraphim.com:6969/announce
+  └─ Reason: no response
+udp://wassermann.online:6969/announce
+  └─ Reason: error: [WinError 10054] Connessione in corso interrotta f
+udp://publictracker.ch:6969/announce
+  └─ Reason: no response
+udp://retracker.akado-ural.ru:80/announce
+  └─ Reason: no response
+udp://retracker.sevstar.net:2710/announce
+  └─ Reason: no response
+udp://rutorrent.frontline-mod.com:6969/announce
+  └─ Reason: no response
+udp://sd-161673.dedibox.fr:6969/announce
+  └─ Reason: no response
+udp://tracker.anirena.com:80/announce
+  └─ Reason: no response
+udp://tracker.army:6969/announce
+  └─ Reason: no response
+udp://tracker.dyne.org:6969/announce
+  └─ Reason: no response
+udp://tracker.mg64.net:6881/announce
+  └─ Reason: no response
+udp://tracker.mlsub.net:443/announce
+  └─ Reason: no response
+udp://tracker.noobsubs.net:80/announce
+  └─ Reason: no response
+udp://tracker.openbittorrent.com:80/announce
+  └─ Reason: no response
+udp://tracker.peckservers.com:9000/announce
+  └─ Reason: no response
+udp://tracker.v6speed.org:6969/announce
+  └─ Reason: no response
+udp://tracker.ygsub.com:6969/announce
+  └─ Reason: no response
+udp://tracker0.ufibox.com:6969/announce
+  └─ Reason: no response
+udp://trakx.herokuapp.com:443/announce
+  └─ Reason: no response
+udp://ultra.zt.ua:6969/announce
+  └─ Reason: no response
+udp://vps02.net.orel.ru:80/announce
+  └─ Reason: no response
+udp://www.all4nothin.net:80/announce
+  └─ Reason: no response
+udp://www.midea123.z-media.com.cn:6969/announce
+  └─ Reason: no response
+udp://www.skyts.net:6969/announce
+  └─ Reason: no response
+udp://www.theoccult.bz:3010/announce
+  └─ Reason: no response
+
+
+######################################################################
+# INVALID TRACKERS (175 total)
+######################################################################
+
+--- HTTP (18) ---
+http://www.wareztorrent.com/announce
+  └─ Reason: parked/expired domain or advertising page
+http://tracker.openbittorrent.com/announce
+  └─ Reason: parked/expired domain or advertising page
+http://00.xxtor.com/announce
+  └─ Reason: parked/expired domain or advertising page
+http://retracker.xxtor.com/announce
+  └─ Reason: parked/expired domain or advertising page
+http://siambit.com/announce
+  └─ Reason: parked/expired domain or advertising page
+http://tracker.openbittorrent.com:80/announce
+  └─ Reason: parked/expired domain or advertising page
+http://www.wareztorrent.com/announce
+  └─ Reason: parked/expired domain or advertising page
+http://www.wareztorrent.com:80/announce
+  └─ Reason: parked/expired domain or advertising page
+http://swiy.co:80/announce
+  └─ Reason: parked/expired domain or advertising page
+http://tracker.openbittorrent.com/announce
+  └─ Reason: parked/expired domain or advertising page
+http://www.wareztorrent.com/announce
+  └─ Reason: parked/expired domain or advertising page
+http://00.xxtor.com/announce
+  └─ Reason: parked/expired domain or advertising page
+http://retracker.xxtor.com/announce
+  └─ Reason: parked/expired domain or advertising page
+http://siambit.com/announce
+  └─ Reason: parked/expired domain or advertising page
+http://tracker.openbittorrent.com:80/announce
+  └─ Reason: parked/expired domain or advertising page
+http://www.wareztorrent.com/announce
+  └─ Reason: parked/expired domain or advertising page
+http://www.wareztorrent.com:80/announce
+  └─ Reason: parked/expired domain or advertising page
+http://swiy.co:80/announce
+  └─ Reason: parked/expired domain or advertising page
+
+--- HTTPS (6) ---
+https://rb.gy/announce
+  └─ Reason: parked/expired domain or advertising page
+https://rb.gy:443/announce
+  └─ Reason: parked/expired domain or advertising page
+https://swiy.co:443/announce
+  └─ Reason: parked/expired domain or advertising page
+https://rb.gy/announce
+  └─ Reason: parked/expired domain or advertising page
+https://rb.gy:443/announce
+  └─ Reason: parked/expired domain or advertising page
+https://swiy.co:443/announce
+  └─ Reason: parked/expired domain or advertising page
+
+--- UDP (150) ---
+udp://open6.demonii.com:1337/announce
+  └─ Reason: DNS resolution failed
+udp://benouworldtrip.fr:6969/announce
+  └─ Reason: DNS resolution failed
+udp://bt.3kb.xyz:80/announce
+  └─ Reason: DNS resolution failed
+udp://tk.greedland.net:80/announce
+  └─ Reason: DNS resolution failed
+udp://www.zone-torrent.net:80/announce
+  └─ Reason: DNS resolution failed
+udp://torrentclub.online:54123/announce
+  └─ Reason: DNS resolution failed
+udp://retracker.hotplug.ru:2710/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.0x7c0.com:6969/announce
+  └─ Reason: DNS resolution failed
+udp://oh.fuuuuuck.com:6969/announce
+  └─ Reason: DNS resolution failed
+udp://uploads.gamecoast.net:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.encrypted.monster:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.lelux.fi:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.leechers-paradise.org:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.ds.is:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.tiny-vps.com:6969/announce
+  └─ Reason: DNS resolution failed
+udp://bt.xxx-tracker.com:2710/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.kamigami.org:2710/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.pirateparty.gr:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.justseed.it:1337/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.port443.xyz:6969/announce
+  └─ Reason: DNS resolution failed
+udp://opentracker.i2p.rocks:6969/announce
+  └─ Reason: DNS resolution failed
+udp://laestrygonian.ooguy.com:9001/announce
+  └─ Reason: DNS resolution failed
+udp://anna.bt.bontal.net:6969/announce
+  └─ Reason: DNS resolution failed
+udp://oh.fuuuuuck.com:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.0x7c0.com:6969/announce
+  └─ Reason: DNS resolution failed
+udp://retracker.hotplug.ru:2710/announce
+  └─ Reason: DNS resolution failed
+udp://torrentclub.online:54123/announce
+  └─ Reason: DNS resolution failed
+udp://uploads.gamecoast.net:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.encrypted.monster:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.justseed.it:1337/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.port443.xyz:6969/announce
+  └─ Reason: DNS resolution failed
+udp://opentracker.i2p.rocks:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.lelux.fi:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.leechers-paradise.org:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.ds.is:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.tiny-vps.com:6969/announce
+  └─ Reason: DNS resolution failed
+udp://bt.xxx-tracker.com:2710/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.kamigami.org:2710/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.pirateparty.gr:6969/announce
+  └─ Reason: DNS resolution failed
+udp://laestrygonian.ooguy.com:9001/announce
+  └─ Reason: DNS resolution failed
+udp://anna.bt.bontal.net:6969/announce
+  └─ Reason: DNS resolution failed
+udp://boysbitte.be:6969/announce
+  └─ Reason: DNS resolution failed
+udp://bt.rer.lol:2710/announce
+  └─ Reason: DNS resolution failed
+udp://bt.rer.lol:6969/announce
+  └─ Reason: DNS resolution failed
+udp://chouchou.top:8080/announce
+  └─ Reason: DNS resolution failed
+udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
+  └─ Reason: DNS resolution failed
+udp://fe.dealclub.de:6969/announce
+  └─ Reason: DNS resolution failed
+udp://fh2.cmp-gaming.com:6969/announce
+  └─ Reason: DNS resolution failed
+udp://free.publictracker.xyz:6969/announce
+  └─ Reason: DNS resolution failed
+udp://ipv6.tracker.monitorit4.me:6969/announce
+  └─ Reason: DNS resolution failed
+udp://open.4ever.tk:6969/announce
+  └─ Reason: DNS resolution failed
+udp://open.publictracker.xyz:6969/announce
+  └─ Reason: DNS resolution failed
+udp://public.publictracker.xyz:6969/announce
+  └─ Reason: DNS resolution failed
+udp://run-2.publictracker.xyz:6969/announce
+  └─ Reason: DNS resolution failed
+udp://slicie.icon256.com:8000/announce
+  └─ Reason: DNS resolution failed
+udp://stargrave.org:6969/announce
+  └─ Reason: DNS resolution failed
+udp://t.133335.xyz:6969/announce
+  └─ Reason: DNS resolution failed
+udp://torrent.gresille.org:80/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.anima.nz:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.arcbox.cc:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.artixlinux.org:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.beeimg.com:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.ccp.ovh:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.ex.ua:80/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.filetracker.pl:8089/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.flashtorrents.org:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.ilibr.org:80/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.jonaslsa.com:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.joybomb.tw:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.kicks-ass.net:80/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.leech.ie:1337/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.publictracker.xyz:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.skynetcloud.site:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.yangxiaoguozi.cn:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.piratepublic.com:1337/announce
+  └─ Reason: DNS resolution failed
+udp://tracker2.indowebster.com:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker6.lelux.fi:6969/announce
+  └─ Reason: DNS resolution failed
+udp://u4.trakx.crim.ist:1337/announce
+  └─ Reason: DNS resolution failed
+udp://u6.trakx.crim.ist:1337/announce
+  └─ Reason: DNS resolution failed
+udp://x.paranoid.agency:6969/announce
+  └─ Reason: DNS resolution failed
+udp://x.t-1.org:6969/announce
+  └─ Reason: DNS resolution failed
+udp://burmese.app:6969/announce
+  └─ Reason: DNS resolution failed
+udp://ipv6.fuuuuuck.com:6969/announce
+  └─ Reason: DNS resolution failed
+udp://ns1.monolithindustries.com:6969/announce
+  └─ Reason: DNS resolution failed
+udp://p2p.publictracker.xyz:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tk1.trackerservers.com:8080/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.farted.net:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.jamesthebard.net:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.vds.nz:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker2.itzmx.com:6961/announce
+  └─ Reason: DNS resolution failed
+udp://[2a03:7220:8083:cd00::1]:451/announce
+  └─ Reason: DNS resolution failed
+udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
+  └─ Reason: DNS resolution failed
+udp://[2a0f:e586:f:f::81]:6969/announce
+  └─ Reason: DNS resolution failed
+udp://boysbitte.be:6969/announce
+  └─ Reason: DNS resolution failed
+udp://bt.rer.lol:2710/announce
+  └─ Reason: DNS resolution failed
+udp://bt.rer.lol:6969/announce
+  └─ Reason: DNS resolution failed
+udp://chouchou.top:8080/announce
+  └─ Reason: DNS resolution failed
+udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
+  └─ Reason: DNS resolution failed
+udp://fe.dealclub.de:6969/announce
+  └─ Reason: DNS resolution failed
+udp://fh2.cmp-gaming.com:6969/announce
+  └─ Reason: DNS resolution failed
+udp://free.publictracker.xyz:6969/announce
+  └─ Reason: DNS resolution failed
+udp://ipv6.tracker.monitorit4.me:6969/announce
+  └─ Reason: DNS resolution failed
+udp://open.4ever.tk:6969/announce
+  └─ Reason: DNS resolution failed
+udp://open.publictracker.xyz:6969/announce
+  └─ Reason: DNS resolution failed
+udp://public.publictracker.xyz:6969/announce
+  └─ Reason: DNS resolution failed
+udp://run-2.publictracker.xyz:6969/announce
+  └─ Reason: DNS resolution failed
+udp://slicie.icon256.com:8000/announce
+  └─ Reason: DNS resolution failed
+udp://stargrave.org:6969/announce
+  └─ Reason: DNS resolution failed
+udp://t.133335.xyz:6969/announce
+  └─ Reason: DNS resolution failed
+udp://torrent.gresille.org:80/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.anima.nz:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.arcbox.cc:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.artixlinux.org:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.beeimg.com:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.ccp.ovh:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.ex.ua:80/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.filetracker.pl:8089/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.ilibr.org:80/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.jonaslsa.com:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.joybomb.tw:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.kicks-ass.net:80/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.leech.ie:1337/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.flashtorrents.org:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.piratepublic.com:1337/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.publictracker.xyz:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.skynetcloud.site:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.yangxiaoguozi.cn:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker2.indowebster.com:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker6.lelux.fi:6969/announce
+  └─ Reason: DNS resolution failed
+udp://u4.trakx.crim.ist:1337/announce
+  └─ Reason: DNS resolution failed
+udp://u6.trakx.crim.ist:1337/announce
+  └─ Reason: DNS resolution failed
+udp://x.paranoid.agency:6969/announce
+  └─ Reason: DNS resolution failed
+udp://x.t-1.org:6969/announce
+  └─ Reason: DNS resolution failed
+udp://burmese.app:6969/announce
+  └─ Reason: DNS resolution failed
+udp://ipv6.fuuuuuck.com:6969/announce
+  └─ Reason: DNS resolution failed
+udp://ns1.monolithindustries.com:6969/announce
+  └─ Reason: DNS resolution failed
+udp://p2p.publictracker.xyz:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tk1.trackerservers.com:8080/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.farted.net:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.jamesthebard.net:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker.vds.nz:6969/announce
+  └─ Reason: DNS resolution failed
+udp://tracker2.itzmx.com:6961/announce
+  └─ Reason: DNS resolution failed
+udp://[2a03:7220:8083:cd00::1]:451/announce
+  └─ Reason: DNS resolution failed
+udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
+  └─ Reason: DNS resolution failed
+udp://[2a0f:e586:f:f::81]:6969/announce
+  └─ Reason: DNS resolution failed
+udp://open6.demonii.com:1337/announce
+  └─ Reason: DNS resolution failed
+udp://benouworldtrip.fr:6969/announce
+  └─ Reason: DNS resolution failed
+udp://bt.3kb.xyz:80/announce
+  └─ Reason: DNS resolution failed
+udp://tk.greedland.net:80/announce
+  └─ Reason: DNS resolution failed
+udp://www.zone-torrent.net:80/announce
+  └─ Reason: DNS resolution failed
+
+--- UNKNOWN (1) ---
+-
+  └─ Reason: missing protocol
+
