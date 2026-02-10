@@ -109,10 +109,143 @@ MIT License - feel free to use in your projects.
 ## Links
 
 - **Website:** [https://trackerstatus.live](https://trackerstatus.live)
-- **Issues:** [GitHub Issues](https://github.com/yourusername/trackerstatus-live/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/trackerstatus-live/discussions)
+
 
 ---
 
 <p align="center">Made for the BitTorrent community</p>
 <p align="center">Star this repo if you find it useful</p>
+
+# TrackerStatus Tracker Checker Manual Script
+
+> Python script for validating BitTorrent tracker health with deep protocol validation
+
+[![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+## Overview
+
+A standalone Python script that validates BitTorrent trackers using actual protocol validation. Unlike simple ping or HTTP status checks, this script performs deep validation by analyzing tracker responses, detecting parked domains, and filtering out fake trackers.
+
+Part of the [TrackerStatus.live](https://trackerstatus.live) project.
+
+## Features
+
+### Deep Protocol Validation
+- **HTTP/HTTPS Trackers** - Sends proper BitTorrent announce requests and validates bencoded responses
+- **UDP Trackers** - Implements full BitTorrent UDP tracker protocol handshake
+- **Response Analysis** - Checks for proper tracker keys (`interval`, `peers`, `failure reason`)
+- **Bencoded Data Validation** - Ensures responses are in correct BitTorrent format
+
+### Smart Detection
+- **Parked Domain Detection** - Identifies expired domains and advertising pages
+- **HTML Page Filtering** - Rejects trackers returning HTML instead of bencoded data
+- **Parking Service Detection** - Recognizes GoDaddy, Namecheap, Sedo, Bodis, and other parking services
+- **Size Validation** - Filters responses that are too large to be legitimate tracker data
+
+### Performance & Usability
+- **Multi-threaded Processing** - Validates 20 trackers concurrently by default
+- **Progress Tracking** - Real-time progress updates during validation
+- **Dual Usage Modes** - Works via command line or double-click
+- **Cross-Platform** - Works on Windows, Linux, and macOS
+- **Zero Dependencies** - Uses only Python standard library
+
+## Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/MaDTiA/TrackerStatus.live.git
+cd TrackerStatus.live
+
+## Requirements
+
+Python 3.6 or higher (no external dependencies)
+
+## Usage
+
+### Method 1: Double-Click Mode (Windows/Easy)
+
+1. Create `trackers.txt` in the same folder as `TrackerStatus - Checker.py`
+2. Add your tracker URLs (one per line)
+3. Double-click `TrackerStatus - Checker.py`
+4. Results will be saved to `filtered.txt`
+5. Press Enter when complete
+
+### Method 2: Command Line
+
+```bash
+# Basic usage
+python "TrackerStatus - Checker.py" trackers.txt filtered.txt
+
+# Custom input/output files
+python "TrackerStatus - Checker.py" my_trackers.txt results.txt
+
+Input Format
+The script accepts various tracker URL formats:
+# Standard URLs
+https://tracker.example.com:443/announce
+http://tracker.example.org:80/announce
+udp://tracker.example.net:6969/announce
+
+# Markdown links (auto-parsed)
+[https://tracker.example.com:443/announce](https://tracker.example.com:443/announce)
+
+# Mixed protocols
+https://track3r.site:443/announce
+udp://opentor.org:2710/announce
+http://tracker.files.fm:6969/announce
+
+Output Format
+Results are organized by status and protocol:
+======================================================================
+TRACKER VALIDATION RESULTS (STRICT MODE)
+======================================================================
+Total Checked: 150
+Alive (Valid): 87
+Dead: 42
+Invalid (Parked/Expired/Not Trackers): 21
+======================================================================
+
+######################################################################
+# ALIVE TRACKERS (87 total)
+######################################################################
+
+--- HTTPS (45) ---
+https://tracker.example.com:443/announce
+https://tracker2.example.org:443/announce
+
+--- UDP (42) ---
+udp://tracker.opentrackr.org:1337/announce
+udp://tracker.example:6969/announce
+
+######################################################################
+# DEAD TRACKERS (42 total)
+######################################################################
+
+--- HTTPS (30) ---
+https://dead-tracker.com:443/announce
+  └─ Reason: connection failed: [Errno 111] Connection refused
+
+--- UDP (12) ---
+udp://offline.tracker:6969/announce
+  └─ Reason: no response
+
+######################################################################
+# INVALID TRACKERS (21 total)
+######################################################################
+
+--- HTTPS (21) ---
+https://expired-domain.com:443/announce
+  └─ Reason: parked/expired domain or advertising page
+
+Configuration
+Edit these parameters in the script for customization:
+# In main() function
+max_workers=20        # Number of concurrent checks (default: 20)
+
+# In check_http_tracker() function
+timeout=10           # HTTP request timeout in seconds (default: 10)
+
+# In check_udp_tracker() function
+timeout=10           # UDP response timeout in seconds (default: 10)
+
