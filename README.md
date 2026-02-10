@@ -156,7 +156,7 @@ Part of the [TrackerStatus.live](https://trackerstatus.live) project.
 # Clone the repository
 git clone https://github.com/MaDTiA/TrackerStatus.live.git
 cd TrackerStatus.live
-
+```
 ## Requirements
 
 Python 3.6 or higher (no external dependencies)
@@ -176,7 +176,7 @@ Python 3.6 or higher (no external dependencies)
 ```bash
 # Basic usage
 python "TrackerStatus - Checker.py" trackers.txt filtered.txt
-
+```
 # Custom input/output files
 python "TrackerStatus - Checker.py" my_trackers.txt results.txt
 
